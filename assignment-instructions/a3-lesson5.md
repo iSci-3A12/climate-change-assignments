@@ -60,6 +60,16 @@ function [] = plot_station_data_soln(station_name, ref_start, ref_end)
   - ```plot_station_data('Kargopol', 1971, 2000)```
   - ```plot_station_data('all', 1971, 2000)```
 
+<table style="background-color: #ffff99;">
+<tbody>
+<tr>
+<td>
+<p><b>IMPORTANT NOTE:</b> For some reason, the Almaty dataset may be missing from the /Data folder in your MATLAB Drive; this will cause an error when trying to run the first example. To fix this issue, you can either: a) download the Almaty.csv file from your assignment GitHub repository and upload to the /Data folder in your MATLAB Drive, or b) simply test with a different station name as found in your /Data folder.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
 ## 3. Deliverables
 - Ensure that all changes to your function ```plot_station_data``` is saved.
 - **NOTE** that you are submitting the function and not the outputs (Jay is going to run the script on his computer to evaluate that it creates the proper outputs).
