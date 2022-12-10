@@ -35,7 +35,7 @@ Allgaier, J., 2019. Science and Environmental Communication on YouTube: Strategi
 
 Baade, B., 2019. Fake News and International Law. *European Journal of International Law*, 29(4), pp.1357–1376. https<spac>://doi.org/<spac>10.1093/<spac>ejil/chy071.
 
-CBC News: The National, 2021. *The National | Air travel and climate change, land border reopening, EVs*. [video online] Available at: https<spac>://<spac>w<spac>w<spac>w.<spac>youtube<spac>.com/<spac>watch?v=vxc-EYvz6XY
+CBC News: The National, 2021. *The National: Air travel and climate change, land border reopening, EVs*. [video online] Available at: https<spac>://<spac>w<spac>w<spac>w.<spac>youtube<spac>.com/<spac>watch?v=vxc-EYvz6XY
 
 ClimateAdam, 2022. *Flying is worse for the climate than you think*. [video online] Available at: https<spac>://<spac>w<spac>w<spac>w.<spac>youtube.<spac>com/watch?v=Y5ny2TJl3Y8
 
