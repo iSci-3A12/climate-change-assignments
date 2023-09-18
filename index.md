@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# iSci 3A12 Climate Change Project - Fall 2022
+# iSci 3A12 Climate Change Project - Fall 2023
 
 Welcome to our project website for this term.
 

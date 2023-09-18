@@ -44,9 +44,9 @@ When complete, your respository will consist of the following items, which shoul
 
 ## 4. Due dates and assessment rubric
 
-|Date Assigned|2022-11-07|
+|Date Assigned|2023-11-06|
 |:--|:--|
-|**Date Due**|**2022-11-27**|
+|**Date Due**|**2023-11-26**|
 |**Weight**|**5 points**|
 
 ![Assessment rubric](img/a3-rubric.png)

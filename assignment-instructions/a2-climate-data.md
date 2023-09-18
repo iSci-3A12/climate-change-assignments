@@ -6,12 +6,12 @@ parent: Assignment Instructions
 ---
 
 # Analyzing and Visualizing Climate Data
-iSci 3A12 - Climate Change – Fall 2022  
+iSci 3A12 - Climate Change – Fall 2023  
 Individual Assignment #2
 
-|Date Assigned|2022-10-17|
+|Date Assigned|2022-10-16|
 |:--|:--|
-|**Date Due**|**2022-11-06**|
+|**Date Due**|**2022-11-05**|
 |**Weight**|**5 points**|
 
 ## Contents

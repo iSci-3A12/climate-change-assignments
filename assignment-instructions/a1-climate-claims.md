@@ -6,16 +6,16 @@ parent: Assignment Instructions
 ---
 
 # Climate claims: Finding the facts in a “post-truth” world
-iSci 3A12 - Climate Change – Fall 2022  
+iSci 3A12 - Climate Change – Fall 2023  
 Individual Assignment #1
 
-|Date Assigned|2022-09-26|
+|Date Assigned|2022-09-5|
 |:--|:--|
-|**Date Due**|**2022-10-23**|
+|**Date Due**|**2022-10-22**|
 |**Weight**|**5 points**|
 
 ## Introduction
-A quick perusal of the comments left beneath any mainstream media article relating to climate change demonstrates the diversity and range of public opinions on the subject. The views of the so-labeled “climate deniers/skeptics” and “climate alarmists” seem to persist, despite what appears to be an overwhelming agreement among qualified scientists and subject experts, as well as authoritative reports like the [IPCC Fifth Assessment Report (AR5)](https://www.ipcc.ch/report/ar5/syr/) and [Sixth Assessment Report (AR6)](https://www.ipcc.ch/report/ar6/wg1/). In many ways, the current informational environment around climate change resembles that of the recent COVID-19 pandemic, where expertise, analyses, predictions, and policies are questioned daily. 
+A quick perusal of the comments left beneath any mainstream media article relating to climate change demonstrates the diversity and range of public opinions on the subject. The views of the so-labeled “climate deniers/skeptics” and “climate alarmists” seem to persist, despite what appears to be an overwhelming agreement among qualified scientists and subject experts, as well as authoritative reports like the [IPCC Fifth Assessment Report (AR5)](https://www.ipcc.ch/report/ar5/syr/) and [Sixth Assessment Report (AR6)](https://www.ipcc.ch/report/sixth-assessment-report-cycle/). In many ways, the current informational environment around climate change resembles that of the recent COVID-19 pandemic, where expertise, analyses, predictions, and policies are questioned daily. 
 
 How is it that such contradictory beliefs can co-exist in today's well-informed society? Are some members of society willing to remain misinformed about climate change and climate science? Are people deliberately distorting the truth and misleading others? Are political, ideological, and scientific groups ingrained into a culture that is unreceptive to new information and prone to hidden biases? In this assignment, you will get an opportunity to explore these discrepancies, and will attempt to expose the truth beneath the endless conflicting dialogue that exists outside of scholarly circles.
 
@@ -33,8 +33,8 @@ Through this assignment, it is expected that you will:
 ## Getting Started & Submission Details
 Your submission will take the form of a [Markdown](https://www.markdownguide.org/getting-started/) document, a web-friendly, plaintext document format used to make simple webpages and format text for the web (including sites like GitHub, Reddit, Trello, and applications like R and Jupyter Notebooks). This lets us compile and share submissions in a single website. 
 To prepare for submitting your work as a markdown document: 
-1. Make sure you've completed the [GitHub and Markdown module](https://isci-3a12.github.io/climate-change-fall2022/assignment-instructions/a0-intro-to-github.html) assigned in week 4.
-  - **Note**: Ensure that you have created a GitHub account and linked it to your name in GitHub Classroom. You should have been prompted to do this as part of the [GitHub and Markdown module](https://isci-3a12.github.io/climate-change-fall2022/assignment-instructions/a0-intro-to-github.html). 
+1. Make sure you've completed the [GitHub and Markdown module](https://isci-3a12.github.io/climate-change-fall2023/assignment-instructions/a0-intro-to-github.html) assigned in week 4.
+  - **Note**: Ensure that you have created a GitHub account and linked it to your name in GitHub Classroom. You should have been prompted to do this as part of the [GitHub and Markdown module](https://isci-3a12.github.io/climate-change-fall2023/assignment-instructions/a0-intro-to-github.html). 
 2. Create your repository for this assignment at this url: [https://classroom.github.com/a/bppccK9l](https://classroom.github.com/a/bppccK9l). 
   - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a1-climate-claims-<yourgithubname>```
   - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
