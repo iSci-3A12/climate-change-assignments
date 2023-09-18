@@ -6,6 +6,10 @@ parent: 03 - Scientific Programming
 grand_parent: Assignment Instructions
 ---
 
+***Coming soon***
+
+<!--
+
 # Introduction
 Scientific computing--using computer algorithms to solve scientific problems--plays an important role in research for many modern scientific disciplines. By developing computer programs that collect, refine, analyze, and visualize experimental data, scientists are able to explore new scientific hypotheses and broaden their understanding of physical phenomena and relationships. Even in cases where datasets are small and relatively straightforward, using scripted, programming approaches can greatly improve the efficiency and reproducibility of scientific analysis.
 
@@ -53,3 +57,5 @@ When complete, your respository will consist of the following items, which shoul
 
 ## 5. Get started 
 Ready to start? Head to the [preparation page](a3-preparation) and follow the instructions to get your software (MATLAB Online) and data ready.
+
+-->
