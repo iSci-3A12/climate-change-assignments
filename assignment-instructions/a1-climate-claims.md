@@ -35,7 +35,7 @@ Your submission will take the form of a [Markdown](https://www.markdownguide.org
 To prepare for submitting your work as a markdown document: 
 1. Make sure you've completed the [GitHub and Markdown module](https://isci-3a12.github.io/climate-change-assignments/assignment-instructions/a0-intro-to-github.html) assigned in week 4.
   - **Note**: Ensure that you have created a GitHub account and linked it to your name in GitHub Classroom. You should have been prompted to do this as part of the [GitHub and Markdown module](https://isci-3a12.github.io/climate-change-assignments/assignment-instructions/a0-intro-to-github.html). 
-2. Create your repository for this assignment at this url: [https://classroom.github.com/a/bppccK9l](https://classroom.github.com/a/r50mo5-2). 
+2. Create your repository for this assignment at this url: [https://classroom.github.com/a/r50mo5-2](https://classroom.github.com/a/r50mo5-2). 
   - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a1-climate-claims-<yourgithubname>```
   - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
 3. Read the readme.md file for further instructions
