@@ -56,7 +56,7 @@ To enable this, you must connect your GitHub account with your name in our proje
 - Create folders and files.
 
 ### 2.2 Clone a repo; Connect your GitHub account to GitHub Classroom
-- Click [this link](https://classroom.github.com/a/p8fc537S) to clone the repository for this module. Cloning allows you to make a personal copy of someone else's repository (Jay's in this case), so that you can pick up where they left off.  
+- Click [this link](https://classroom.github.com/a/MtK2oG37) to clone the repository for this module. Cloning allows you to make a personal copy of someone else's repository (Jay's in this case), so that you can pick up where they left off.  
 - If this is the first time you've used this link, you'll first be prompted to connect your GitHub account to your name in our GitHub Classroom.  
 <img src="join-the-classroom.png" alt="dialog box prompting user to select their name from a list" width="350" style="border: 1px solid darkgrey">
 
@@ -297,5 +297,5 @@ As you've already experienced, the nice thing about jekyll is that it doesn't ju
 
 ### 6.5 Learn about git and GitHub Desktop
 If you're interested in learning more about how you can do version control in your local folders and connect them to GitHub repositories see: 
-- [This intro to Git and GitHub tutorial](https://ubc-library-rc.github.io/intro-git/) from UBC Library Research Commons.
+- [This intro to Git and GitHub tutorial](https://scds.github.io/github-pages/) from the Sherman Centre for Digital Scholarship.
 - [This intro to GitHub Desktop tutorial](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/creating-your-first-repository-using-github-desktop) from GitHub.
