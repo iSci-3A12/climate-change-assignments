@@ -216,6 +216,9 @@ nav_order: 2
 ## 6. (optional) Creating webpages with GitHub Pages
 In this optional add-on exercise, you'll learn how to use GitHub Pages to turn the markdown content in your GitHub repository into a functioning webpage.
 
+Follow along with the [lesson](https://scds.github.io/github-pages/lessons/lesson3.html) provided by the Sherman Centre for Digital Scholarship. 
+
+<!--
 ### Video
 <iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/c620fa4d-670f-4539-891b-83642e2e2d12/public?autoplay=false&automute=false"></iframe>
 
@@ -295,7 +298,9 @@ As you've already experienced, the nice thing about jekyll is that it doesn't ju
   - **NOTE**: Remember that it may take a couple of minutes for changes to propagate from your GitHub repo to your webpage.
 - You can do the same with other content that provides embed codes, like Google Slideshows, for example.
 
-### 6.5 Learn about git and GitHub Desktop
+--> 
+
+## 7. Learn more about git, GitHub, GitHub Desktop
 If you're interested in learning more about how you can do version control in your local folders and connect them to GitHub repositories see: 
-- [This intro to Git and GitHub tutorial](https://scds.github.io/github-pages/) from the Sherman Centre for Digital Scholarship.
+- [This intro to GitHub and GitHub Pages tutorial](https://scds.github.io/github-pages/) from the Sherman Centre for Digital Scholarship.
 - [This intro to GitHub Desktop tutorial](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/creating-your-first-repository-using-github-desktop) from GitHub.
