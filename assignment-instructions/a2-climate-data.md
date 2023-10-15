@@ -277,16 +277,16 @@ The following slide illustrates how to calculate an anomaly from your station ti
 <img src="Slide3.png" alt="Line graph demonstrating how to create an anomaly" width="700" style="border: 1px solid darkgrey">
 
 ## 9. Demo
-I've carried out this demonstration using Google Sheets, though the process would be mostly similar in MS Excel. If you would like to see a video showing the same steps in Excel, please let me know. This demonstration is a couple of years old and shows data downloaded in 2021; however, the datasets and methods demonstrated here are still relevant.
+I've carried out this demonstration using Google Sheets, though the process would be mostly similar in MS Excel. If you would like to see a video showing the same steps in Excel, please let me know. This demonstration is a couple of years old and shows data downloaded in 2021; however, the datasets and methods demonstrated here are consistent, and the shortlink shown in the video will take you to the same updated spreadsheet as the shortlink shared below. 
 <br>
-To follow along with this demo, please make a copy of the demo station data by clicking this link: [https://bit.ly/CC2021-CDADemo](https://bit.ly/CC2021-CDADemo).
+To follow along with this demo, please make a copy of the demo station data by clicking this link: [https://bit.ly/CC-CDA-Demo](https://bit.ly/CC-CDA-Demo).
 
 <iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/2b5888b9-220b-49b7-a8e0-e9d470a2e6ff/public?autoplay=false&automute=false"></iframe>
 
 **If you are having issues playing the video, use [this link](https://echo360.ca/media/2b5888b9-220b-49b7-a8e0-e9d470a2e6ff/public) to view it in Echo360.**
 
 ### 9.1 Additional tips
-The *Useful Information* tab of the [demo data sheet](https://bit.ly/CC2021-CDADemo) contains a few useful spreadsheet equations for this assignment. I've pasted them below for reference: 
+The *Useful Information* tab of the [demo data sheet](https://bit.ly/CC-CDA-Demo) contains a few useful spreadsheet equations for this assignment. I've pasted them below for reference: 
 
 |                                                       Operation                                                       |               example formula              |                                                                                                                                   Formula Explained                                                                                                                                   |
 |:---------------------------------------------------------------------------------------------------------------------:|:------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
