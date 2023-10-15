@@ -14,10 +14,6 @@ Individual Assignment #2
 |**Date Due**|**2023-11-05**|
 |**Weight**|**5 points**|
 
-***Coming soon***
-
-<!--
-
 ## Contents
 1. [Introduction](#1-introduction)
 1. [Objectives](#2-objectives)
@@ -297,5 +293,3 @@ The *Useful Information* tab of the [demo data sheet](https://bit.ly/CC2023-CDAD
 | Take an average of range, using only those that meet a certain criteria                                               | =AVERAGEIF(B3:M3,">-50")                  | Average cells B3 to M3; include only values greater than -50                                                                                                                                                                                                                         |
 | Calculate an average of a range, only if a condition is met                                                           | =IF(SUM(B2:M2)>-40,AVERAGE(B2:M2),-99.99) | Calculate the average of cells B2:M2, only when the sum is greater than -40 (i.e. no -99.9s). Otherwise, return value of -99.99                                                                                                                                                     |
 | Calculate a two-tailed T-test, assuming that:  we're performing a two-tailed test unequal variances (heteroscedastic) | =T.TEST(P99:P138,P2:P98,2,3)               | Perform a t-test between cells P99 and P138 (i.e. last 40 years of data), and the preceding 97 years.  The function returns the associated p-value (likelihood that this difference could arise by chance alone).  So, if p-value is <0.05, the result is significant at alpha = 0.05 |
-
--->
