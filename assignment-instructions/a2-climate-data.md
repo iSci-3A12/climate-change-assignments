@@ -282,9 +282,11 @@ I've carried out this demonstration using Google Sheets, though the process woul
 To follow along with this demo, please make a copy of the demo station data by clicking this link: [https://bit.ly/CC-CDA-Demo](https://bit.ly/CC-CDA-Demo).
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
-In the demo video below, I show how to find and remove annual averages with a -99.99 in it. It is also possible to do this with an excel formula--I've included an example of such a formula in the table below (and the top example of the demo station data sheet). 
+In the demo video below, I show how to find and remove annual averages when a monthly value is -99.99. It is also possible to do this with a Google Sheets / Excel formula--I've included an example of such a formula in the table below (and the top example of the demo station data sheet). 
 </div>
-	
+
+<br>
+
 <iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/2b5888b9-220b-49b7-a8e0-e9d470a2e6ff/public?autoplay=false&automute=false"></iframe>
 
 **If you are having issues playing the video, use [this link](https://echo360.ca/media/2b5888b9-220b-49b7-a8e0-e9d470a2e6ff/public) to view it in Echo360.**
