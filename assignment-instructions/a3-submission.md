@@ -8,7 +8,7 @@ grand_parent: Assignment Instructions
 
 # Submitting your work
 When you've completed your work in MATLAB Online, you need to upload the deliverables to GitHub. Use the following steps: 
-1. Make sure each of your deliverables use the proper filename (see below).
+1. Make sure each of your deliverables uses the proper filename (see below).
 1. Use the MATLAB Online interface or MATLAB Drive to download each file to your local computer.
 1. Upload each file into the **top-level** directory of your assignment GitHub repository. 
 
