@@ -34,7 +34,7 @@ By the end of this workshop, you will be able to:
 ## 3. Submission details
 You will submit your deliverables via the GitHub repository that is created for you in GitHub Classroom when you click [this link](https://classroom.github.com/a/-RgKeLwc) and clone the repository. 
 <br>
-When complete, your respository will consist of the following items, which should all be created in the top level directory of the repository:
+When complete, your repository will consist of the following items, which should all be created in the top-level directory of the repository:
 - A **function** named ```my_lucky_numbers.m``` (Created during [Lesson 2](lesson2))
 - A **figure** named ```lucky_numbers.png``` (Created during [Lesson 2](lesson2))
 - A **function** named ```simple_stats.m``` (Created during [Lesson 3](lesson3))
@@ -49,7 +49,18 @@ When complete, your respository will consist of the following items, which shoul
 |**Date Due**|**2023-11-26**|
 |**Weight**|**5 points**|
 
-![Assessment rubric](img/a3-rubric.png)
+### Assessment rubric
+| Lesson(s) | Output(s)                                                       | Criteria                                                                                       | Points |
+|-----------|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------|
+| 2 & 3     | `my_lucky_numbers.m`<br>`lucky_numbers.png`<br>`simple_stats.m` | Functions run without error, are flexible to different inputs and produce correct outputs      | /20    |
+| 2 & 3     | `my_lucky_numbers.m`<br>`lucky_numbers.png`<br>`simple_stats.m` | Figure elements are styled in an appealing and effective manner                                | /10    |
+| 2 & 3     | `my_lucky_numbers.m`<br>`lucky_numbers.png`<br>`simple_stats.m` | Function and script are appropriately commented so as to be understood by an external reviewer | /10    |
+| 4 & 5     | `process_adelaide.m`                                            | Runs as expected and creates three appropriately styled and named figures                      | /25    |
+| 4 & 5     | `plot_station_data.m`                                           | Runs as expected and creates appropriately styled and named figures                            | /15    |
+| 4 & 5     | `process_adelaide.m`<br>`plot_station_data.m`                   | Function and script are appropriately commented to be understood by an external reviewer       | /10    |
+| --        | Question response and reflection                                | Response is complete, well-composed, and shows depth of thought                                | /10    |
+
+<!--![Assessment rubric](img/a3-rubric.png)-->
 
 ## 5. Get started 
 Ready to start? Head to the [preparation page](a3-preparation) and follow the instructions to get your software (MATLAB Online) and data ready.
