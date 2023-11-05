@@ -41,7 +41,7 @@ By the end of this lesson, you will have created the following required delivera
 In the last lesson, you created a script that processes and plots station data for a single station using a set reference period to calculate anomalies (i.e. 1951-1980). ***But what if you wanted to do the same analysis for other sites? For all sites? What if you wanted to change the reference period and run it again?*** This is where creating a function (where those preferences can be entered as inputs) becomes valuable. 
   
 In this task, you need to complete the code in ```plot_station_data``` so that the function: 
-- Allows a user to select one site to analyze by entering the name of a station's data file as it appears in ```/Data``` (e.g. ```Arhangelsk```, ```Base Orcadas```, etc.). Internally, this is assigned to the ```station_name``` variable.
+- Allows a user to select one site to analyze by entering the name of a station's data file as it appears in ```/Data``` (e.g. ```Adelaide Airport.csv```, ```Almaty.csv```, etc.). Internally, this is assigned to the ```station_name``` variable.
 - Allows a user to process all site data in ```/Data``` at once (in a loop) if they enter ```'all'``` in the place of a station file name.  
 - Allows a user to specify the start (```ref_start```) and end (```end_year```) years for the *reference period* for calculating anomalies.
 - Similar to the previous lesson, creates two png figures for each site: 
@@ -57,9 +57,10 @@ function [] = plot_station_data_soln(station_name, ref_start, ref_end)
 ### 2.1 Hints
 - When you are ready to test your function, run each of the following lines in the Command Window separately to see if they create the desired outputs: 
   - ```plot_station_data('Almaty', 1961, 1990)```
-  - ```plot_station_data('Kargopol', 1971, 2000)```
+  - ```plot_station_data('Karlstad', 1971, 2000)```
   - ```plot_station_data('all', 1971, 2000)```
 
+<!--
 <table style="background-color: #ffff99;">
 <tbody>
 <tr>
@@ -69,6 +70,7 @@ function [] = plot_station_data_soln(station_name, ref_start, ref_end)
 </tr>
 </tbody>
 </table>
+-->
 
 ## 3. Deliverables
 - Ensure that all changes to your function ```plot_station_data``` is saved.
