@@ -10,13 +10,13 @@ grand_parent: Assignment Instructions
 Follow the steps below to prepare MATLAB Online and your get your data pack for this assignment.
 
 ## 1. Create your assignment GitHub repository
-Create your repository for this assignment at this url: [https://classroom.github.com/a/-RgKeLwc](https://classroom.github.com/a/-RgKeLwc).
+Create your repository for this assignment at this url: [https://classroom.github.com/a/-RgKeLwc](https://classroom.github.com/a/s20DQJwF).
   - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a3-scientific-programming-<yourgithubname>```).
   - This repository comes with data and files that you will use in your assignment (as a backup, see below). When it is time to submit your work, you will download your files from MATLAB Online and upload them to this repository (overwriting some of the files that are here already). 
-  - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
+  - Remember that you can find all your GitHub Classroom repositories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
 
 ## 2. Activate MATLAB and open MATLAB Online
-As a student at McMaster, you have access to MATLAB through McMaster's [web portal](https://www.mathworks.com/academia/tah-portal/mcmaster-university-31501097.html). From this portal, you can download the MATLAB installer to install it on your local desktop or laptop, or access and use MATLAB online--an completely online version of the software. For this assignment, we'll be using the online version. If you don't already have one, you'll be required to create a MathWorks account. 
+As a student at McMaster, you have access to MATLAB through McMaster's [web portal](https://www.mathworks.com/academia/tah-portal/mcmaster-university-31501097.html). From this portal, you can download the MATLAB installer to install it on your local desktop or laptop, or access and use MATLAB online--a completely online software version. For this assignment, we'll be using the online version. If you don't already have one, you'll be required to create a MathWorks account. 
 
 - Navigate to https://www.mathworks.com/products/matlab-online.html
 - Click **Start using MATLAB Online**
@@ -32,7 +32,7 @@ As a student at McMaster, you have access to MATLAB through McMaster's [web port
 <tbody>
 <tr>
 <td>
-<p><b>NOTE:</b> After connecting your account the first time, you only need to go to the <a href="https://matlab.mathworks.com/">sign in page</a> to access MATLAB Online. </p>
+<p><b>NOTE:</b> After connecting your account the first time, you only need to go to the <a href="https://matlab.mathworks.com/">sign-in page</a> to access MATLAB Online. </p>
 </td>
 </tr>
 </tbody>
@@ -56,4 +56,4 @@ Before you can begin the assignment, the assignment pack materials need to be up
 - You should now see a folder called ```iSci3A12-CC-SciProgramming``` in your MATLAB Drive and in MATLAB Online. The folder should contain a number of files and subfolders.
 
 ## 3. Continue to the first lesson
-Now that you have MATLAB Online set up, continue to the [first lesson](a3-lesson1).
+Now that you have MATLAB Online set up, you can continue to the [first lesson](a3-lesson1).
