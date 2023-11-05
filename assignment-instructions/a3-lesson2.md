@@ -9,7 +9,7 @@ grand_parent: Assignment Instructions
 # Lesson 2: Intermediate Operations
 
 **Estimated time to complete: 45 minutes**  
-In this lesson, you will build upon the [basics](lesson1) to create working scripts and functions and perform some analyses. By the end of this lesson, you will have created ***two*** of your required deliverables: 
+In this lesson, you will build upon the [basics](a3-lesson1) to create working scripts and functions and perform some analyses. By the end of this lesson, you will have created ***two*** of your required deliverables: 
 - Your modified version of ```my_lucky_numbers.m```
 - The figure ```my_lucky_numbers.png``` that you will create during your analyses
 
