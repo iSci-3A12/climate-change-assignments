@@ -50,6 +50,7 @@ When complete, your repository will consist of the following items, which should
 |**Weight**|**5 points**|
 
 ### Assessment rubric
+
 | Lesson(s) | Output(s)                                                       | Criteria                                                                                       | Points |
 |-----------|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------|
 | 2 & 3     | `my_lucky_numbers.m`<br>`lucky_numbers.png`<br>`simple_stats.m` | Functions run without error, are flexible to different inputs and produce correct outputs      | /20    |
@@ -59,6 +60,7 @@ When complete, your repository will consist of the following items, which should
 | 4 & 5     | `plot_station_data.m`                                           | Runs as expected and creates appropriately styled and named figures                            | /15    |
 | 4 & 5     | `process_adelaide.m`<br>`plot_station_data.m`                   | Function and script are appropriately commented to be understood by an external reviewer       | /10    |
 | --        | Question response and reflection                                | Response is complete, well-composed, and shows depth of thought                                | /10    |
+
 
 <!--![Assessment rubric](img/a3-rubric.png)-->
 
