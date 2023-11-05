@@ -12,7 +12,10 @@ grand_parent: Assignment Instructions
 In this exercise, you will complete the code and comments for the script ```process_adelaide.m``` (which is found in your MATLAB Drive). When completed, this script will load data for the climate station ```Adelaide Airport```, and carry out the same analysis as you completed in a spreadsheet for the first part of your Climate Data Assignment. You will also load data for the climate station `Detroit Metro Ap` (Detroit Metro Airport) and create a scatterplot of annual temperature anomalies between the two sites. This should give you a good understanding of the power of scripted approaches, and you'll build on this script to create a final deliverable that can complete analysis for all sites at once. 
   
 By the end of this lesson, you will have created the following required deliverable: 
-- A script called ```process_adelaide.m```, which completes analyses successfully and produces ***three figures***.
+- A script called ```process_adelaide.m```, which completes analyses successfully and produces ***three figures*** named":
+  - `Adelaide Airport_timeseries.png`
+  - `Adelaide Airport_barcode.png`
+  - `Adelaide_vs_Detroit.png`
 
 ### Video
 <iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/853400bb-4fa9-4b53-bd15-4c100c08b462/public?autoplay=false&automute=false"></iframe>
