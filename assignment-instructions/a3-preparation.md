@@ -10,7 +10,7 @@ grand_parent: Assignment Instructions
 Follow the steps below to prepare MATLAB Online and your get your data pack for this assignment.
 
 ## 1. Create your assignment GitHub repository
-Create your repository for this assignment at this url: [https://classroom.github.com/a/-RgKeLwc](https://classroom.github.com/a/s20DQJwF).
+Create your repository for this assignment at this url: [https://classroom.github.com/a/s20DQJwF](https://classroom.github.com/a/s20DQJwF).
   - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a3-scientific-programming-<yourgithubname>```).
   - This repository comes with data and files that you will use in your assignment (as a backup, see below). When it is time to submit your work, you will download your files from MATLAB Online and upload them to this repository (overwriting some of the files that are here already). 
   - Remember that you can find all your GitHub Classroom repositories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
