@@ -257,6 +257,29 @@ Not all visualizations are created equal. Just because a chart or map makes sens
 - Title
 	- Not typically used in publications. In presentations, you would typically use a title at the top of the slide, but not on the figure.
 
+### 7.3 Formatting a Table
+Follow the recommendations in this short video from darkhorse analytics' [Remove to Improve](https://www.darkhorseanalytics.com/remove-to-improve) series.
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/cKBu3tXNjME" title="Table: Remove to Improve Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+(From the video), to build a better table: 
+- Remove colours
+- Remove gridlines
+- Remove fills
+- Remove the border
+- Remove bolding
+- Left-align text
+- Right-align numbers
+- Align titles with data!
+- Resize columns to data
+- Use white space wisely
+- Use constant precision
+- Round numbers
+- Remove repetition
+- Use a plain font
+- Re-add emphasis!
+
 ## 8. Calculating Anomalies
 A temperature anomaly is a departure of a measured value from a reference or long-term average temperature. It can be calculated on many different timescales (day, week, year, decade, etc.) and is useful for visualizing trends and deviation from a mean value. Temperature anomalies are used commonly to convey information related to climate change, as removing the mean values makes it easier to compare between different regions and periods. It also makes regional averages less sensitive to the inclusion or exclusion of certain stations. [Learn more about anomalies](https://www.ncei.noaa.gov/access/monitoring/dyk/anomalies-vs-temperature).
 
