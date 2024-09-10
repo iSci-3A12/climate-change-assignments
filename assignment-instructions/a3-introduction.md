@@ -32,7 +32,7 @@ By the end of this workshop, you will be able to:
 - Apply your new skills and knowledge in other programming languages.
 
 ## 3. Submission details
-You will submit your deliverables via the GitHub repository that is created for you in GitHub Classroom when you click [this link](https://classroom.github.com/a/s20DQJwF) and clone the repository. 
+You will submit your deliverables via the GitHub repository that is created for you in GitHub Classroom when you click [this link](https://classroom.github.com/a/Nb4-RB4P) and clone the repository. 
 <br>
 When complete, your repository will consist of the following items, which should all be created in the top-level directory of the repository:
 - A **function** named ```my_lucky_numbers.m``` (Created during [Lesson 2](a3-lesson2))
@@ -44,9 +44,9 @@ When complete, your repository will consist of the following items, which should
 
 ## 4. Due dates and assessment rubric
 
-|Date Assigned|2023-11-06|
+|Date Assigned|2024-11-11|
 |:--|:--|
-|**Date Due**|**2023-11-26**|
+|**Date Due**|**2024-12-01**|
 |**Weight**|**5 points**|
 
 ### Assessment rubric

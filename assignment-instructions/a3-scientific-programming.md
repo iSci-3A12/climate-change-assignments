@@ -7,12 +7,12 @@ has_children: true
 ---
 
 # Scientific Programming with MATLAB
-iSci 3A12 - Climate Change – Fall 2023  
+iSci 3A12 - Climate Change – Fall 2024  
 Individual Assignment #3
 
-|Date Assigned|2023-11-06|
+|Date Assigned|2024-11-11|
 |:--|:--|
-|**Date Due**|**2023-11-26**|
+|**Date Due**|**2023-12-01**|
 |**Weight**|**5 points**|
 
 | Lesson(s) | Output(s)                                                       | Criteria                                                                                       | Points |

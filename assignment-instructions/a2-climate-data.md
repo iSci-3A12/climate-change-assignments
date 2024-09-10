@@ -6,12 +6,12 @@ parent: Assignment Instructions
 ---
 
 # Analyzing and Visualizing Climate Data
-iSci 3A12 - Climate Change – Fall 2023  
+iSci 3A12 - Climate Change – Fall 2024 
 Individual Assignment #2
 
-|Date Assigned|2023-10-16|
+|Date Assigned|2024-10-21|
 |:--|:--|
-|**Date Due**|**2023-11-05**|
+|**Date Due**|**2024-11-10**|
 |**Weight**|**5 points**|
 
 ## Contents
@@ -52,8 +52,8 @@ In terms of skill and knoweldge development, it is intended that this assignment
 - advance your GitHub and Markdown skills to embed your figures and tables in a web-ready document.
 
 ## 3. Submission Details and Preparation
-As with your first assignment, your submission will take the form of a [Markdown](https://www.markdownguide.org/getting-started/) document. Materials for this assignment (as well as a template markdown submission file) are provided to you in the GitHub repository that is created for you in GitHub Classrooms when you click [this link](https://classroom.github.com/a/RyasZCOW) and clone the repository. To get prepared, you should: 
-1. Create your repository for this assignment at this url: [https://classroom.github.com/a/RyasZCOW](https://classroom.github.com/a/RyasZCOW)
+As with your first assignment, your submission will take the form of a [Markdown](https://www.markdownguide.org/getting-started/) document. Materials for this assignment (as well as a template markdown submission file) are provided to you in the GitHub repository that is created for you in GitHub Classrooms when you click [this link](https://classroom.github.com/a/kqcxk-x1) and clone the repository. To get prepared, you should: 
+1. Create your repository for this assignment at this url: [https://classroom.github.com/a/kqcxk-x1](https://classroom.github.com/a/kqcxk-x1)
   - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a2-climate-data-<yourgithubname>```)
   - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
 2. Read the rest of this instruction document and your new repository's README.md file, as well. 
@@ -147,7 +147,7 @@ In your submission file, you will create a report with **3 figures, 1 table, and
 - Export your figure from Google Sheets or Excel as a PNG file and title it ```station-timeseries.png```
 - Insert this figure into your ```submission.md``` document. Add a descriptive caption and be sure to indicate the baseline period (1951-1980) in it.
 ### Table 1
-- Create a table comparing the annual and seasonal average temperatures at your site for the past 40 years of measurement (e.g., 1984-2023 if your time series goes to 2023) to those from the years preceding it (i.e., the start of your time series until the year before your 40-year average starts). **Include data from 2023, acknowledging that some of your calculated values for the year (including annual average) will be unusable due to incomplete data**. To create seasonal averages, you group data from successive three-month periods. e.g.:
+- Create a table comparing the annual and seasonal average temperatures at your site for the past 40 years of measurement (e.g., 1984-2023 if your time series goes to 2023) to those from the years preceding it (i.e., the start of your time series until the year before your 40-year average starts). **Do not inlcude 2024 data, as it is incomplete**. To create seasonal averages, you group data from successive three-month periods. e.g.:
 	- JFM = average of: Jan, Feb, Mar
 	- AMJ =  average of: Apr, May, Jun
 	- JAS =  average of: July, Aug, Sep
