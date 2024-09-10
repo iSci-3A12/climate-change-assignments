@@ -21,4 +21,4 @@ Your reflection should have an **absolute maximum of 500 words** that express yo
 
 Reflections will be evaluated out of a total of 16 points using the following rubric: 
 
-<img src="reflection-rubric.png" alt="Assessment rubric" width="700" style="border: 1px solid darkgrey">
+<img src="img/reflection-rubric.png" alt="Assessment rubric" width="700" style="border: 1px solid darkgrey">
