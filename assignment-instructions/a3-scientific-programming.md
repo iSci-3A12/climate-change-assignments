@@ -12,7 +12,7 @@ Individual Assignment #3
 
 |Date Assigned|2024-11-11|
 |:--|:--|
-|**Date Due**|**2023-12-01**|
+|**Date Due**|**2024-12-01**|
 |**Weight**|**5 points**|
 
 | Lesson(s) | Output(s)                                                       | Criteria                                                                                       | Points |
