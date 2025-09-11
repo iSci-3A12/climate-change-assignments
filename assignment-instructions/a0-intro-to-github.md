@@ -56,7 +56,7 @@ To enable this, you must connect your GitHub account with your name in our proje
 - Create folders and files.
 
 ### 2.2 Clone a repo; Connect your GitHub account to GitHub Classroom
-- Click [this link](https://classroom.github.com/a/PXMu07PM) to clone the repository for this module. Cloning allows you to make a personal copy of someone else's repository (Jay's in this case), so that you can pick up where they left off.  
+- Click [this link](https://classroom.github.com/a/quziAxIi) to clone the repository for this module. Cloning allows you to make a personal copy of someone else's repository (Jay's in this case), so that you can pick up where they left off.  
 - If this is the first time you've used this link, you'll first be prompted to connect your GitHub account to your name in our GitHub Classroom.  
 <img src="join-the-classroom.png" alt="dialog box prompting user to select their name from a list" width="350" style="border: 1px solid darkgrey">
 
