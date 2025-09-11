@@ -6,12 +6,12 @@ parent: Assignment Instructions
 ---
 
 # Analyzing and Visualizing Climate Data
-iSci 3A12 - Climate Change – Fall 2024 
+iSci 3A12 - Climate Change – Fall 2025 
 Individual Assignment #2
 
-|Date Assigned|2024-10-21|
+|Date Assigned|2025-10-20|
 |:--|:--|
-|**Date Due**|**2024-11-10**|
+|**Date Due**|**2025-11-09**|
 |**Weight**|**5 points**|
 
 ## Contents
@@ -52,8 +52,8 @@ In terms of skill and knoweldge development, it is intended that this assignment
 - advance your GitHub and Markdown skills to embed your figures and tables in a web-ready document.
 
 ## 3. Submission Details and Preparation
-As with your first assignment, your submission will take the form of a [Markdown](https://www.markdownguide.org/getting-started/) document. Materials for this assignment (as well as a template markdown submission file) are provided to you in the GitHub repository that is created for you in GitHub Classrooms when you click [this link](https://classroom.github.com/a/kqcxk-x1) and clone the repository. To get prepared, you should: 
-1. Create your repository for this assignment at this url: [https://classroom.github.com/a/kqcxk-x1](https://classroom.github.com/a/kqcxk-x1)
+As with your first assignment, your submission will take the form of a [Markdown](https://www.markdownguide.org/getting-started/) document. Materials for this assignment (as well as a template markdown submission file) are provided to you in the GitHub repository that is created for you in GitHub Classrooms when you clone the repository. To get prepared, you should: 
+1. Create your repository for this assignment at this url: [https://classroom.github.com/a/0DNdyTvd](https://classroom.github.com/a/0DNdyTvd)
   - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a2-climate-data-<yourgithubname>```)
   - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
 2. Read the rest of this instruction document and your new repository's README.md file, as well. 
