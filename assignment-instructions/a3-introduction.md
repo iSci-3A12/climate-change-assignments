@@ -44,9 +44,9 @@ When complete, your repository will consist of the following items, which should
 
 ## 4. Due dates and assessment rubric
 
-|Date Assigned|2024-11-11|
+|Date Assigned|2025-11-10|
 |:--|:--|
-|**Date Due**|**2024-12-01**|
+|**Date Due**|**2025-11-30**|
 |**Weight**|**5 points**|
 
 ### Assessment rubric
