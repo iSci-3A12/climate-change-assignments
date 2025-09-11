@@ -51,7 +51,7 @@ In this task, you need to complete the code in ```plot_station_data``` so that t
 <br>
 **NOTE** that the *function declaration* for ```plot_station_data``` has already been created to accommodate the inputs defined above: 
 ```
-function [] = plot_station_data_soln(station_name, ref_start, ref_end)
+function [] = plot_station_data(station_name, ref_start, ref_end)
 ```
 
 ### 2.1 Hints
