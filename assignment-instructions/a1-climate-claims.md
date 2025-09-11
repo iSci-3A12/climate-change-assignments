@@ -6,12 +6,12 @@ parent: Assignment Instructions
 ---
 
 # Climate claims: Finding the facts in a “post-truth” world
-iSci 3A12 - Climate Change – Fall 2024  
+iSci 3A12 - Climate Change – Fall 2025  
 Individual Assignment #1
 
-|Date Assigned|2024-09-23|
+|Date Assigned|2025-09-22|
 |:--|:--|
-|**Date Due**|**2024-10-27**|
+|**Date Due**|**2025-10-26**|
 |**Weight**|**5 points**|
 
 ## Introduction
@@ -35,7 +35,7 @@ Your submission will take the form of a [Markdown](https://www.markdownguide.org
 To prepare for submitting your work as a markdown document: 
 1. Make sure you've completed the [GitHub and Markdown module](https://isci-3a12.github.io/climate-change-assignments/assignment-instructions/a0-intro-to-github.html) assigned in week 4.
   - **Note**: Ensure that you have created a GitHub account and linked it to your name in GitHub Classroom. You should have been prompted to do this as part of the [GitHub and Markdown module](https://isci-3a12.github.io/climate-change-assignments/assignment-instructions/a0-intro-to-github.html). 
-2. Create your repository for this assignment at this url: [https://classroom.github.com/a/9JWEeb5S](https://classroom.github.com/a/9JWEeb5S). 
+2. Create your repository for this assignment at this url: [https://classroom.github.com/a/knlAgP55](https://classroom.github.com/a/knlAgP55). 
   - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a1-climate-claims-<yourgithubname>```
   - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
 3. Read the readme.md file for further instructions
@@ -53,12 +53,12 @@ To prepare for submitting your work as a markdown document:
   - [Climate Change 101](https://climatechange101.ca/) - Made in Canada!
   - [Dr. Roy Spencer](https://www.drroyspencer.com/) - A prominent meteorologist with contrarian views on climate change.
   - [Climate Change Facts](https://www.climatechangefacts.info).
-  - [CO2Science](http://www.co2science.org/) - Seems to have stopped tweeting, but you can browse older posts on its [Twitter](https://twitter.com/co2science). 
+  - [CO2Science](http://www.co2science.org/) - Seems to have stopped posting, but you can browse older posts on its [X profile](https://x.com/co2science). 
 2. **Create a top-5 list** of articles that most make you rethink/question what you understand about climate change—this does not mean that they are correct, but that they provide a compelling argument, seemingly new evidence, new angle, etc. You can do some preliminary research on these claims (to ensure that analysis on the specific claim isn’t readily available), but don’t go too deep, yet.  
 For each item on the list, you should provide the following: 
   - a URL to the claim’s source. 
-  - a 1-sentence summary of the claim.
-  - a 1-sentence explanation of why it prompted you to rethink or question your current views
+  - a 1-2 sentence summary of the claim.
+  - a 1-2 sentence explanation of why it prompted you to rethink or question your current views
 3. **Evaluate the #1 claim in your list. Using 600 or fewer words**, do the following:
   - Provide a reference to the article (using the standard iSci format)
   - Summarize the argument being made in the article and state why it is of particular interest 
