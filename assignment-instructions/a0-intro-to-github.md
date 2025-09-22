@@ -60,6 +60,11 @@ To enable this, you must connect your GitHub account with your name in our proje
 - If this is the first time you've used this link, you'll first be prompted to connect your GitHub account to your name in our GitHub Classroom.  
 <img src="join-the-classroom.png" alt="dialog box prompting user to select their name from a list" width="350" style="border: 1px solid darkgrey">
 
+- **New** ***and fun*** **for 2025**: Due to changes in McMaster's GitHub policy, you will not be able to accept the assignment immediately and will see an error message if you do so. The following steps are now required:
+	- After you've linked to your account, Jay will invite you to the iSci3A12 GitHub organization. You will receive an email that looks like
+	<img src="img/join-org.png" alt="dialog box prompting user to join the iSci-3A12 organization" width="350" style="border: 1px solid darkgrey">
+	- Accept the invitation and try again to accept the assignment using [this link](https://classroom.github.com/a/quziAxIi).
+
 - In the following window, select to **accept the assignment**.  
 <img src="accept-assignment.png" alt="dialog box prompting user to accept an assignment" width="350" style="border: 1px solid darkgrey">
 
