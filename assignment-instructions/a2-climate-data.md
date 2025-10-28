@@ -164,7 +164,7 @@ In your submission file, you will create a report with **3 figures, 1 table, and
 	- Annual =  average of all months for the year
 - For each grouped period, calculate a two-sample t-test to test whether the mean temperatures (i.e. seasonal and annual) over the past 40 years of available data is significantly different than that from before. Use a significance value of 𝛼 = 0.05. See the [additional tips](#91-additional-tips) section for more guidance on the t-test formula.
 - Your final table should be structured in the following manner: 
-	- 5 Columns: ```| JFM | AMJ | JAS | OND | Annual |```
+	- 5 Columns: ```| JFM | AMJ | JAS | OND | Annual |``` (Refer to your GitHub and Markdown intro assignment for instructions on making these into headings)
 	- 3 Rows: 
 		- Mean T, (in °C) for the last 40 years of available data (most/all time series include 2024 data)
 		- Mean T, (in °C) for all years before the last 40 (there should be no overlap in years) 
