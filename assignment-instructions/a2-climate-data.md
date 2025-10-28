@@ -147,7 +147,16 @@ In your submission file, you will create a report with **3 figures, 1 table, and
 - Export your figure from Google Sheets or Excel as a PNG file and title it ```station-timeseries.png```
 - Insert this figure into your ```submission.md``` document. Add a descriptive caption and be sure to indicate the baseline period (1951-1980) in it.
 ### Table 1
-- Create a table comparing the annual and seasonal average temperatures at your site for the past 40 years of measurement (e.g., 1984-2023 if your time series goes to 2023) to those from the years preceding it (i.e., the start of your time series until the year before your 40-year average starts). **Do not inlcude 2024 data, as it is incomplete**. To create seasonal averages, you group data from successive three-month periods. e.g.:
+<table style="background-color: #ffff99;">
+<tbody>
+<tr>
+<td>
+<p><b>NOTE:</b> that the following instructions have been updated to clarify the years to be used for averaging. The *past 40-year average* should consist of data from 1985 to 2024. 2025 data should be excluded for this exercise.</p>
+</td>
+</tr>
+</tbody>
+</table>
+- Create a table comparing the annual and seasonal average temperatures at your site for the past 40 years of measurement (**exlcuding the current year, as it will be incomplete**) to those from the years preceding it. For example, if your time series runs from 1910 to 2025, your past 40-year average will consist of data from 1985-2024, and your comparison range will be 1910 to 1984 (i.e., the start of your time series until the year before your 40-year average starts). **Do not inlcude the current year of data, as it is incomplete**. To create seasonal averages, you group data from successive three-month periods. e.g.:
 	- JFM = average of: Jan, Feb, Mar
 	- AMJ =  average of: Apr, May, Jun
 	- JAS =  average of: July, Aug, Sep
@@ -157,7 +166,7 @@ In your submission file, you will create a report with **3 figures, 1 table, and
 - Your final table should be structured in the following manner: 
 	- 5 Columns: ```| JFM | AMJ | JAS | OND | Annual |```
 	- 3 Rows: 
-		- Mean T, (in °C) for the last 40 years of available data (most/all time series include 2023 data)
+		- Mean T, (in °C) for the last 40 years of available data (most/all time series include 2024 data)
 		- Mean T, (in °C) for all years before the last 40 (there should be no overlap in years) 
 		- ΔT, (in °C), or differences in seasonal/annual means from the last 40 years and the previous years (i.e. row 1 – row 2)
 		- Significant differences should be bolded and indicated with a trailing plus sign (e.g. **0.331+**)
