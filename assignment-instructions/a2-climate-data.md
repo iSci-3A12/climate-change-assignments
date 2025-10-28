@@ -151,7 +151,7 @@ In your submission file, you will create a report with **3 figures, 1 table, and
 <tbody>
 <tr>
 <td>
-<p><b>NOTE:</b> that the following instructions have been updated to clarify the years to be used for averaging. The *past 40-year average* should consist of data from 1985 to 2024. 2025 data should be excluded for this exercise.</p>
+<p><b>NOTE:</b> that the following instructions have been updated to clarify the years to be used for averaging. The *past 40-year average* should consist of data from 1985 to 2024. The previous version suggested using 1984 to 2023. 2025 data should be excluded for this exercise.</p>
 </td>
 </tr>
 </tbody>
