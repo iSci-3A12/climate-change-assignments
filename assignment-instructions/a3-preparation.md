@@ -18,9 +18,9 @@ Create your repository for this assignment at this url: [https://classroom.githu
 ## 2. Activate MATLAB and open MATLAB Online
 As a student at McMaster, you have access to MATLAB through McMaster's [web portal](https://www.mathworks.com/academia/tah-portal/mcmaster-university-31501097.html). From this portal, you can download the MATLAB installer to install it on your local desktop or laptop, or access and use MATLAB online--a completely online software version. For this assignment, we'll be using the online version. If you don't already have one, you'll be required to create a MathWorks account. 
 
-- Navigate to https://www.mathworks.com/products/matlab-online.html
+- Navigate to the Mathworks [sign up / sign in page](https://www.mathworks.com/academia/tah-portal/mcmaster-university-31501097.html) for McMaster University
 - Click **Start using MATLAB Online**
-- On the MATLAB Online login page, choose to **create an account**
+- On the MATLAB Online login page, choose to **create an account**. (If you already have an account, simply log in).
 ![login dialog box](img/signup1.png)
 - On the registration page, enter your information. **BE SURE to use your McMaster email address!**
 ![sign up dialog box](img/signup2.png)
