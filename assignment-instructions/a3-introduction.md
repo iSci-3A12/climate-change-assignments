@@ -19,9 +19,6 @@ The purpose of this workshop is to provide you with an introduction to the MATLA
 
 **[Direct link to video](https://echo360.ca/media/cdbbe7fe-3157-43d8-b095-9171ff53ee5b/public).**
 
-#### Slides
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSItE1o0vgaNguRl_5PgD9KYvKqW-Q4o_zrHhMvD8lOhglo-7mpewrkub25wcgv7vHpHPOehBBGgSm3/embed?start=false&loop=true&delayms=60000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 ## 2. Objectives
 By the end of this workshop, you will be able to:
 - Compare and contrast the relative merits of performing analyses interactively (e.g. in spreadsheet) vs. programmatically (i.e. using a scripted approach).
