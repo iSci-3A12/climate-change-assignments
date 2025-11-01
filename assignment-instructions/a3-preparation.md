@@ -26,7 +26,7 @@ As a student at McMaster, you have access to MATLAB through McMaster's [web port
 ![sign up dialog box](img/signup2.png)
 - Follow the link to **create your profile through the university**. Use your MAC ID credentials.
 ![account creation instructions](img/signup3.png)
-- Finally, [sign in to MATLAB Online](https://matlab.mathworks.com/) using your MathWorks credentials to start using it. 
+- Finally, [sign in to MATLAB Online](https://matlab.mathworks.com/) using your MathWorks credentials to start using it. **Note that some students have reported a delay between registering and login working. If this happens, please try again after a few minutes and email Jay if it does not work.
 
 <table style="background-color: #ffff99;">
 <tbody>
