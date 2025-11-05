@@ -11,7 +11,7 @@ Individual Assignment #2
 
 |Date Assigned|2025-10-20|
 |:--|:--|
-|**Date Due**|**2025-11-09**|
+|**Date Due**|**2025-11-12**|
 |**Weight**|**5 points**|
 
 ## Contents
