@@ -324,7 +324,7 @@ In the demo video below, I show how to find and remove annual averages when a mo
 **If you are having issues playing the video, use [this link](https://echo360.ca/media/2b5888b9-220b-49b7-a8e0-e9d470a2e6ff/public) to view it in Echo360.**
 
 ### 9.1 Additional tips
-The *Useful Information* tab of the [demo data sheet](https://bit.ly/CC-CDA-Demo) contains a few useful spreadsheet equations for this assignment. I've pasted them below for reference: 
+The *Useful Information* tab of the [demo data sheet](https://bit.ly/CC-climatedata-demo) contains a few useful spreadsheet equations for this assignment. I've pasted them below for reference: 
 
 |                                                       Operation                                                       |               example formula              |                                                                                                                                   Formula Explained                                                                                                                                   |
 |:---------------------------------------------------------------------------------------------------------------------:|:------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
