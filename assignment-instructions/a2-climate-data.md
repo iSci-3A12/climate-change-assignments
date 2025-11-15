@@ -311,7 +311,7 @@ The following slide illustrates how to calculate an anomaly from your station ti
 ## 9. Demo
 I've carried out this demonstration using Google Sheets, though the process would be mostly similar in MS Excel. If you would like to see a video showing the same steps in Excel, please let me know. This demonstration is a couple of years old and shows data downloaded in 2021; however, the datasets and methods demonstrated here are consistent, and the shortlink shown in the video will take you to the same updated spreadsheet as the shortlink shared below. 
 <br>
-To follow along with this demo, please make a copy of the demo station data by clicking this link: [https://bit.ly/CC-CDA-Demo](https://bit.ly/CC-CDA-Demo).
+To follow along with this demo, please make a copy of the demo station data by clicking this link: [https://bit.ly/CC-climatedata-demo](https://bit.ly/CC-climatedata-demo).
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
 In the demo video below, I show how to find and remove annual averages when a monthly value is -99.99. It is also possible to do this with a Google Sheets / Excel formula--I've included an example of such a formula in the table below (and the top example of the demo station data sheet). 
