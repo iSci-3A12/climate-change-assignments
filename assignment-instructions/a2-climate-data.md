@@ -313,6 +313,16 @@ I've carried out this demonstration using Google Sheets, though the process woul
 <br>
 To follow along with this demo, please make a copy of the demo station data by clicking this link: [https://bit.ly/CC-climatedata-demo](https://bit.ly/CC-climatedata-demo).
 
+<table style="background-color: #ffff99;">
+<tbody>
+<tr>
+<td>
+<p><b>NOTE:</b> that the link to the demo sheet shown in the video no longer works. Please use <a href="https://bit.ly/CC-climatedata-demo">this  link</a> instead.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
 In the demo video below, I show how to find and remove annual averages when a monthly value is -99.99. It is also possible to do this with a Google Sheets / Excel formula--I've included an example of such a formula in the table below (and the top example of the demo station data sheet). 
 </div>
