@@ -7,7 +7,6 @@ parent: Group Public Summaries
 
 # A Perfect Fungal Storm: The Impact of Climate Change on Fungal Infections in Humans
 **By Alexandra Biernacki, Ben Mazin, Claire Rintoul, & Sam Vanhaverbeke**
----
 
 ## Introduction
 As the climate changes, increasing global temperatures and extreme weather are not the only concerns (Ikuta et al. 2022). Fungal pathogens sit mere degrees below our current body temperature, waiting to infect our bodies. As the climate warms, the temperature barrier that protects humans is shrinking as fungi evolve to survive in warmer conditions. Ultimately, this means fungal pathogens are on the rise and humans are increasingly at risk with approximately 3.75 million people killed every year (Dall 2024). Climate change is also allowing fungi to grow in areas of the world that would previously be unsuitable, while simultaneously causing increasing resistance to antifungal treatments.
