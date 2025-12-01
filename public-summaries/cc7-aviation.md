@@ -7,7 +7,6 @@ parent: Group Public Summaries
 
 # SAFs & Fuel-Efficient Engines
 **By Arham Saeed, Ahad Syed, Julie Mesha & Lucas Monter**
----
 
 ## Aviation’s Harmful Impact on Climate
 The aviation industry has undergone many innovations over the past century to advance aircraft; however, its environmental impact wasn’t factored in. Today, approximately 2.5% of global carbon dioxide (CO<sub>2</sub>) emissions are produced by the aviation industry, and aviation accounts for 4% of global climate change (Ritchie 2024). Aircraft contribute to climate change through contrails (white streaks left behind by aircraft), cloud formation, CO<sub>2</sub> emissions and NOx emissions (Lee et al. 2009). GHG emissions from aircraft can be mitigated by synthetic aviation fuel (SAFs) and fuel-efficient engines. Unlike fossil fuels, SAFs are a renewable fuel derived from human waste and biomass, such as oils and fats (Shahriar and Khanal 2022). Furthermore, Rolls-Royce and Pratt & Whitney are designing and manufacturing fuel-efficient engines that maintain power output with minimal fuel use and GHG emissions (Pratt & Whitney 2015) (Aerovision International 2021).
