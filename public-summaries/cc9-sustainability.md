@@ -7,7 +7,6 @@ parent: Group Public Summaries
 
 # Assessing the Impact and Limitations of Sustainability Initiatives at McMaster
 **By Jasleen Dhillon, Kristen Falik, Siya Sood, Ariya Sud, Jenny Yong**
----
   
 ## Introduction
 
