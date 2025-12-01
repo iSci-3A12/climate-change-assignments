@@ -8,7 +8,6 @@ parent: Group Public Summaries
 # The False Promise of Natural Gas Its Promotion Amid Detrimental Environmental Impacts
 ## Group 11
 **By Rishabh Bhatia, Brando Farruggia, Edward Hagerman, Diego Prieto, Jonah Wilbur**
----
 
 Over the past 50 years, natural gas (NG) has seen an explosion in popularity and usage. Natural gas was largely introduced as an alternative to coal after the Second World War and later oil following the oil crises of 1973 and 1979 (Cappelli et al. 2023). Its rapid expansion in the global energy share did initially bring about many positive changes which further incentivised governments and other actors to continually invest in the energy source. For instance NG dramatically reduced air pollution due to its lower particulate count when compared with coal and oil. One notable example being the reduction of particulate levels by over 60% in London, UK after the switch to NG (Power et al. 2023). These "miracles" led to its rapid expansion with NG standing at 22% of global energy supply in 2024 (Figure 1).
 
