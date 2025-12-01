@@ -6,10 +6,8 @@ parent: Group Public Summaries
 ---
 
 
-# Reconciling Western and Indigenous Ways of Knowing to Inform Canadian Climate Policy
-## A Two-Eyed-Seeing Approach
-** By Mara Girleanu, Tazeen Hemraj, Adam Owiar, Vamika Sharma, and Asia Vanzante**
----
+# Reconciling Western and Indigenous Ways of Knowing to Inform Canadian Climate Policy: A Two-Eyed-Seeing Approach
+**By Mara Girleanu, Tazeen Hemraj, Adam Owiar, Vamika Sharma, and Asia Vanzante**
 
 ## 1. Reframing Climate Change as a Product of Imperialism 
 
