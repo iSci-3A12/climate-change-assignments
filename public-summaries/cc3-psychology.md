@@ -5,16 +5,9 @@ nav_order: 3
 parent: Group Public Summaries
 ---
 
-
-<h1 align="center">
-  Neurocognitive Mechanisms and Psychological Biases in the Context of Climate Change
-</h1>
-<p align="center">
-  Executive Public Summary
-</p>
-<p align="center">
-Richelle Antonythasan, Cassie Ephrem, Chichi Ohaka, Bhavini Patel, Daniela Reyes Ladino
-</p>
+# Neurocognitive Mechanisms and Psychological Biases in the Context of Climate Change
+** By Richelle Antonythasan, Cassie Ephrem, Chichi Ohaka, Bhavini Patel, Daniela Reyes Ladino**
+---
 
 ### Background and Introduction
 Climate change poses severe threats to global stability, yet public responses remain inconsistent despite strong scientific consensus. Many underestimate its severity, react defensively to emotionally charged or identity-threatening information, or feel helpless, which reflects psychological and not just environmental barriers (Tyson and Kennedy 2024). This review article explores why individuals ignore or resist climate information by examining neurocognitive processes involved in threat detection, time valuation, and sense of agency. Psychological processes are also discussed with biases such as confirmation bias, temporal discounting, optimism bias, the sunk-cost fallacy, and the bystander effect. Together, these mechanisms shape climate psychology and contribute to inaction.

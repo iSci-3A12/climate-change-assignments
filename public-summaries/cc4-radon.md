@@ -6,6 +6,9 @@ parent: Group Public Summaries
 ---
 
 # Radon-222: A Natural Atmospheric Tracer
+**By Fireese Berg, Soleil Goodwin, Rhyana Martin, Riley Rachman, & Amelie Zahoruk**
+---
+
 A major contributor to climate change is the rapidly-increasing rate of greenhouse gas (GHG) emissions. Thus, it is of interest to be able to accurately and continuously track the flux and absolute emissions of GHGs. One promising method involves the use of naturally-occurring atmospheric tracers, such as radon gas. Radon is a chemically inert, radioactive noble gas, produced continuously in rocks and soils from radioactive decay. It is an ideal tracer due to its optimal half-life, which aligns with atmospheric timescales and results in a predictable decay pattern (Baskaran 2016). Consequently, it is widely employed for modeling atmospheric processes, formally known as the Radon Tracer Method (RTM).
 
 ## The Radon Tracer Method

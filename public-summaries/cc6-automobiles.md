@@ -5,11 +5,9 @@ nav_order: 6
 parent: Group Public Summaries
 ---
 
-
-# Excecutive Public Summary
-### Jaden Chagnon, Michael Croft, Kia Ramezani, Arjun Sud, Vibishan Suthaharan
-##### Nov 16 2025
- 
+# A Critical Analysis of Transportation Emission-Reducing Strategies in Canada
+**By Jaden Chagnon, Michael Croft, Kia Ramezani, Arjun Sud, Vibishan Suthaharan** 
+---
 
 ## The Climate Crisis 
 

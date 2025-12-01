@@ -5,7 +5,9 @@ nav_order: 5
 parent: Group Public Summaries
 ---
 
-# Executive Public Summary
+# Agroforestry as a Proposed Solution Within the Tropics
+**By Durezernab Berki, Lola Chan, Fiona Duyu, Oviya Sathiyanarayanan, Sarah Winter**
+---
 
 ## Introduction
 Climate change is becoming one of the most urgent global challenges of our time. Rising carbon dioxide (CO2) levels drive warmer temperatures, threatening wildlife and biodiversity (Sokal and Kachel 2025). Despite global variability, the tropics are highly vulnerable due to their sensitivity to extreme weather. This urgently raises the need for a practical solution that can reduce the effects of climate change and prevent further repercussions. A promising approach is agroforestry, a land-use system that integrates agriculture and forestry. It can provide a variety of benefits, a notable one being carbon sequestration, which is the process of capturing and storing CO2 from the atmosphere (Figure 1).

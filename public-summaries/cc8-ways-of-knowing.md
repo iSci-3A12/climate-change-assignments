@@ -7,13 +7,8 @@ parent: Group Public Summaries
 
 
 # Reconciling Western and Indigenous Ways of Knowing to Inform Canadian Climate Policy
-Two-Eyed-Seeing Approach
-
-
-### Group 8
-### Members: Mara Girleanu, Tazeen Hemraj, Adam Owiar, Vamika Sharma, and Asia Vanzante
-
-
+## A Two-Eyed-Seeing Approach
+** By Mara Girleanu, Tazeen Hemraj, Adam Owiar, Vamika Sharma, and Asia Vanzante**
 ---
 
 ## 1. Reframing Climate Change as a Product of Imperialism 

@@ -5,15 +5,9 @@ nav_order: 10
 parent: Group Public Summaries
 ---
 
-# **Executive Public Summary**
-16 November 2025  
-
-ISCI 3A12
-
-Group 10
-
-Hyejin Joo, Amelia Maggi, Seanna Ninan, and Tinuola Oladapo
-
+# Walkable Cities as an Urban Planning Strategy to Mitigate Climate Impacts and Identifying Disparities Based on Income Level
+**By Hyejin Joo, Amelia Maggi, Seanna Ninan, and Tinuola Oladapo**
+---
 
 
 Climate change is a massive concern in the modern world, and it is greatly attributed to greenhouse gas (GHG) emissions (Abbass et al. 2022). Transportation is a major influence on GHG emissions as most vehicles can only operate thanks to the burning of fossil fuels (Pal et al. 2023; US EPA 2015). Walkable and transit-friendly cities help to reduce the emissions of passenger vehicles and are thus the crux of this proposal (The Climate Reality Project 2021; Li et al. 2025). 

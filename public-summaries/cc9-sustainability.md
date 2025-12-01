@@ -6,12 +6,12 @@ parent: Group Public Summaries
 ---
 
 # Assessing the Impact and Limitations of Sustainability Initiatives at McMaster
-Group 9: ***Jasleen Dhillon, Kristen Falik, Siya Sood, Ariya Sud, Jenny Yong***
+**By Jasleen Dhillon, Kristen Falik, Siya Sood, Ariya Sud, Jenny Yong**
+---
   
 ## Introduction
 
 McMaster University is a hub for a wide range of sustainability initiatives aiming to reduce waste, lower emissions, and create a more environmentally responsible campus. This summary highlights key actions in sustainable transportation, food and paper waste reduction, energy and electronic management, and campus-wide initiatives, evaluating how effective they are as a climate action strategy.
-
 
 ## Sustainable Transportation Options
 

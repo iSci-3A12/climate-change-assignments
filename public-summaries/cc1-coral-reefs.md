@@ -7,7 +7,8 @@ parent: Group Public Summaries
 
 
 # Effects of the El Niño-Southern Oscillation on Climate Change-Induced Coral Bleaching Events
-#### Authors: Caroline Bazydlo, Maya Chambers, Emma Esau, Veronica Peroni Santos, Ella Wright
+**By Caroline Bazydlo, Maya Chambers, Emma Esau, Veronica Peroni Santos, Ella Wright**
+
 Coral reefs are rapidly deteriorating as anthropogenic climate change raises ocean temperatures. Past large-scale bleaching events have been linked to the El Niño-Southern Oscillation (ENSO), the largest source of interannual climate variability. The Southwest Pacific, home to many vulnerable reefs including the Great Barrier Reef (GBR), has shown a large correlation between severe bleaching and ENSO events.
 
 Warming has had severe impacts on marine life, with almost 80% of marine species being negatively affected (Venegas et al. 2023). Of these, corals are particularly affected as a 1-2°C sea surface temperature (SST) increase is enough to create stress and trigger coral bleaching (National Oceanic and Atmospheric Administration 2006). Corals depend on a mutually beneficial relationship with algae that live within the coral and provide it with essential nutrients. However, when corals become stressed, they reject the colourful algae, giving them a ‘bleached’ appearance.

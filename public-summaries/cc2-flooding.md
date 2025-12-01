@@ -5,10 +5,9 @@ nav_order: 2
 parent: Group Public Summaries
 ---
 
-
-
 # Climate Change & Flooding
 **By Gabriele Budarick, Kyrelle Ann Dumacyon, Isabel Goncalves, Jasmin Pinnock, Sruti Prabakaran (Group 2)**
+---
 
 ## Introduction and Methodology
 Floods can impact many sectors of society, including the economy, infrastructure and citizen health (Mita et al. 2025).  Climate change is projected to increase the frequency and severity of floods, elevating economic burden and mortality (United Nations Office for Disaster Risk Reduction, 2025). Through a literature review, we compared the structure and effectiveness of flood management policies within China, the Netherlands, the United Kingdom (UK), and Canada, all of which face notable flood risks. 
