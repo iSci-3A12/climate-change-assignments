@@ -6,8 +6,7 @@ parent: Group Public Summaries
 ---
 
 # A Critical Analysis of Transportation Emission-Reducing Strategies in Canada
-**By Jaden Chagnon, Michael Croft, Kia Ramezani, Arjun Sud, Vibishan Suthaharan** 
----
+**By Jaden Chagnon, Michael Croft, Kia Ramezani, Arjun Sud, Vibishan Suthaharan**
 
 ## The Climate Crisis 
 
