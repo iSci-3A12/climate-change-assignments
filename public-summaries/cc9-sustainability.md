@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sustainability at McMaster
+title: 9. Sustainability at McMaster
 nav_order: 9
 parent: Group Public Summaries
 ---
