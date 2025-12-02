@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Consumerism and Climate Change
+title: 10. Consumerism and Climate Change
 nav_order: 10
 parent: Group Public Summaries
 ---
