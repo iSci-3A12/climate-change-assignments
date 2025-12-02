@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automobiles and Climate Change
+title: 6. Automobiles and Climate Change
 nav_order: 6
 parent: Group Public Summaries
 ---
