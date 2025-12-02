@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fungal Infection and Climate Change
+title: 12. Fungal Infection and Climate Change
 nav_order: 12
 parent: Group Public Summaries
 ---
