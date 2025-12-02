@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ENSO, Climate Change, Coral Bleaching
+title: 7. ENSO, Climate Change, Coral Bleaching
 nav_order: 7
 parent: Group Public Summaries
 ---
