@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Psychology and Climate Change
+title: 3. Psychology and Climate Change
 nav_order: 3
 parent: Group Public Summaries
 ---
