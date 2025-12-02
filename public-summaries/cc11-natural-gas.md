@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Natural Gas and Climate Change
+title: 11. Natural Gas and Climate Change
 nav_order: 11
 parent: Group Public Summaries
 ---
