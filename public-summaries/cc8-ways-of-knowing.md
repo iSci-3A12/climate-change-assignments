@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Climate Change and Ways of Knowing
+title: 8. Climate Change and Ways of Knowing
 nav_order: 8
 parent: Group Public Summaries
 ---
