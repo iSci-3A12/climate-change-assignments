@@ -48,12 +48,13 @@ To prepare for submitting your work as a markdown document:
 6. Following the due date, Jay will download the repositories to be marked. 
 
 ## Tasks 
-1. Using the following websites as a starting point, peruse a variety of articles/webpages containing claims about climate change. (**Note** that these are not peer-reviewed, scientific articles, but articles written in relatively popular but ‘non-mainstream’ media outlets).
+1. Using the following websites as a starting point (or by finding articles on other sites), peruse a variety of articles/webpages containing claims about climate change. (**Note** that these are not peer-reviewed, scientific articles, but articles written in relatively popular but ‘non-mainstream’ media outlets).
   - [Watts up with that](https://wattsupwiththat.com) - The best-known climate ‘skeptic’ website — I suggest starting here.
   - [Climate Change 101](https://climatechange101.ca/) - Made in Canada!
   - [Dr. Roy Spencer](https://www.drroyspencer.com/) - A prominent meteorologist with contrarian views on climate change.
   - [Climate Change Facts](https://www.climatechangefacts.info).
-  - [CO2Science](http://www.co2science.org/) - Seems to have stopped posting, but you can browse older posts on its [X profile](https://x.com/co2science). 
+  - [CO2Science](http://www.co2science.org/) - Seems to have stopped posting, but you can browse older posts on its [X profile](https://x.com/co2science).
+  - [Fraser Institute](https://www.fraserinstitute.org/) - A Canadian conservative think tank that publishes research and commentary on a wide range of political and economics topics, including climate change. 
 2. **Create a top-5 list** of articles that most make you rethink/question what you understand about climate change—this does not mean that they are correct, but that they provide a compelling argument, seemingly new evidence, new angle, etc. You can do some preliminary research on these claims (to ensure that analysis on the specific claim isn’t readily available), but don’t go too deep, yet.  
 For each item on the list, you should provide the following: 
   - a URL to the claim’s source. 
