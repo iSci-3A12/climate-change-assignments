@@ -180,6 +180,10 @@ Considering the results shown in Figure 1 and Table 1, summarize how temperature
 - Export your figure from Google Sheets or Excel as a PNG file and title it ```climate-denier.png```
 - Insert this figure into your ```submission.md``` document. Add a descriptive caption and be sure to indicate the baseline period (1951-1980) in it.
 
+<!--
+Note to JB for next year: Re-insert a question that asks the students to list and justify the changes they've made. They could create it as a markdown table. 
+--> 
+
 ### Figure 3
 - For this figure, you are asked to perform a more in-depth analysis of your data, and look for relationships within it, or relationships with other variables. You can choose between two general approaches: 
 	1. Compare your timeseries (using monthly, seasonal, or annual averages) to any of the other available time series in the Data Pack (or from other sources if you wish), to establish relationships between the two timeseries.  NOTE that you are exploring relationships between two variables (e.g. global temperature anomaly and sunspots), and that **plotting two time series together (as line plots, bar graphs, etc) is a poor form of comparison**.
