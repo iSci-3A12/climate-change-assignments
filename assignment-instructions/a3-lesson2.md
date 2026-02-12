@@ -44,7 +44,7 @@ In this lesson, you will build upon the [basics](a3-lesson1) to create working s
 You’ve been given a "lucky number generating program" from a friend (called ```my_lucky_numbers```). You suspect that it’s outputting nothing but uniformly random numbers between 1 and 100. How can you investigate this?
 
 ### 3.3 The analysis
-<table style="background-color: #ffff99;">
+<table style="background-color: #FCFC6A;">
 <tbody>
 <tr>
 <td>
