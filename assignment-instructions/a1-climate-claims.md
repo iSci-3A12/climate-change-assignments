@@ -9,9 +9,9 @@ parent: Assignment Instructions
 iSci 3A12 - Climate Change – Fall 2026  
 Individual Assignment #1
 
-|Date Assigned|2025-09-28|
+|Date Assigned|2026-09-28|
 |:--|:--|
-|**Date Due**|**2025-10-25**|
+|**Date Due**|**2026-10-25**|
 |**Weight**|**5 points**|
 
 ## Introduction
@@ -66,7 +66,11 @@ For each item on the list, you should provide the following:
   - Through research and by applying the [principles for evaluating information sources](https://researchguides.library.brocku.ca/external-analysis/evaluating-sources), assess the credibility of the article, as well as the accuracy, logical validity, and plausibility of the arguments provided within. Be sure to cite and list (using the standard iSci format) any quality sources you use to evaluate the claim.
 4. In 150 words, reflect on any common themes or approaches that you observed in the most compelling articles that you read. Were there similarities in the way that claims were constructed and presented, or in the way that evidence was used? If you are familiar with logical fallacies, were any of them commonly employed?  
 5. Make sure your markdown document is formatted nicely. **You don't need to include an image, but feel free to do so, if you're interested.**
-6. During a subsequent in-class debrief discussion, you will discuss your analyzed claim with peers in small groups. The discussion session is an opportunity to share your knowledge and think more deeply about how science is communicated in a ‘post-truth’ world.
+6. During a subsequent in-class debrief discussion, you will present your analyzed claim with peers in a small group and discuss it with them. Prepare a 4-5 minute presentation that covers the following aspects: 
+  - What is the central argument of your claim?
+  - What evidence exists for this claim? Which aspects are/aren’t founded?
+  - To what degree do you find this claim plausible/possible? Does it include mis/disinformation?
+  - How were the arguments presented by the author? What choices did they make and what do you think was their motivation? 
 
 ## Assessment Rubric
 <img src="a1-rubric.png" alt="Assessment rubric" width="700" style="border: 1px solid darkgrey">
