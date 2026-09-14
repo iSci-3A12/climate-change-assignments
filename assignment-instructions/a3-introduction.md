@@ -41,9 +41,9 @@ When complete, your repository will consist of the following items, which should
 
 ## 4. Due dates and assessment rubric
 
-|Date Assigned|2025-11-10|
+|Date Assigned|2025-11-09|
 |:--|:--|
-|**Date Due**|**2025-11-30**|
+|**Date Due**|**2025-11-29**|
 |**Weight**|**5 points**|
 
 ### Assessment rubric
@@ -52,7 +52,7 @@ When complete, your repository will consist of the following items, which should
 |-----------|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------|
 | 2 & 3     | `my_lucky_numbers.m`<br>`lucky_numbers.png`<br>`simple_stats.m` | Functions run without error, are flexible to different inputs and produce correct outputs      | /20    |
 | 2 & 3     | `my_lucky_numbers.m`<br>`lucky_numbers.png`<br>`simple_stats.m` | Figure elements are styled in an appealing and effective manner                                | /10    |
-| 2 & 3     | `my_lucky_numbers.m`<br>`lucky_numbers.png`<br>`simple_stats.m` | Function and script are appropriately commented so as to be understood by an external reviewer | /10    |
+| 2 & 3     | `my_lucky_numbers.m`<br>`lucky_numbers.png`<br>`simple_stats.m` | Function and script are appropriately commented to be understood by an external reviewer | /10    |
 | 4 & 5     | `process_adelaide.m`                                            | Runs as expected and creates three appropriately styled and named figures                      | /25    |
 | 4 & 5     | `plot_station_data.m`                                           | Runs as expected and creates appropriately styled and named figures                            | /15    |
 | 4 & 5     | `process_adelaide.m`<br>`plot_station_data.m`                   | Function and script are appropriately commented to be understood by an external reviewer       | /10    |

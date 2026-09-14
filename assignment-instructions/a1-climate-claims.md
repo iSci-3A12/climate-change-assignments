@@ -6,12 +6,12 @@ parent: Assignment Instructions
 ---
 
 # Climate claims: Finding the facts in a “post-truth” world
-iSci 3A12 - Climate Change – Fall 2025  
+iSci 3A12 - Climate Change – Fall 2026  
 Individual Assignment #1
 
-|Date Assigned|2025-09-22|
+|Date Assigned|2025-09-28|
 |:--|:--|
-|**Date Due**|**2025-10-26**|
+|**Date Due**|**2025-10-25**|
 |**Weight**|**5 points**|
 
 ## Introduction

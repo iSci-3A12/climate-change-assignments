@@ -6,12 +6,12 @@ parent: Assignment Instructions
 ---
 
 # Analyzing and Visualizing Climate Data
-iSci 3A12 - Climate Change – Fall 2025 
+iSci 3A12 - Climate Change – Fall 2026
 Individual Assignment #2
 
-|Date Assigned|2025-10-20|
+|Date Assigned|2026-10-19|
 |:--|:--|
-|**Date Due**|**2025-11-12**|
+|**Date Due**|**2026-11-08**|
 |**Weight**|**5 points**|
 
 ## Contents
@@ -191,9 +191,6 @@ Note to JB for next year: Re-insert a question that asks the students to list an
 
 ### Question 2 
 Referring to Figure 3, explain what is shown, and what can be inferred from it. (100 words or less)
-
-### Bonus Question (optional): 
-What parts of this assignment did you find most difficult (and/or time consuming)?  What data processing/analysis/presentation methods are you most uncertain about, and would question if you were presented these figures as a reader? (less than 100 words; point form is encouraged.)
 
 ## 6. Assessment Rubric
 <img src="a2-rubric.png" alt="Assessment rubric" width="700" style="border: 1px solid darkgrey">
