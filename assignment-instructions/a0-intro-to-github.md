@@ -47,7 +47,7 @@ We will use GitHub for all three individual assignments in this project. For eac
 1. **Create a personal GitHub account (if you don't already have one)**: You will use your account for this project's deliverables, but it belongs to you. It is a personal account that you can use for future projects related to your learning, research, professional and personal activities. 
 	- Navigate to [GitHub](https://github.com) and sign up for an account if you don't already have one. 
 	- Sign in to your account. Note your GitHub username
-2. **Complete [this form]() to share your GitHub username with Jay**: Once completed, Jay will invite you to the *iSci-3A12* GitHub organization. 
+2. **Complete [this form](https://bit.ly/CC-github-accounts) to share your GitHub username with Jay**: Once completed, Jay will invite you to the *iSci-3A12* GitHub organization. 
 3. Check the email associated with your GitHub account and accept the invitation to the iSci-3A12 GitHub organization. 
 4. Follow the prompt to connect your GitHub account to McMaster's single sign on authentication. 
 5. Once your invitation has been accepted, Jay will pre-generate your repository for this activity. 
