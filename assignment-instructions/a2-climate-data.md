@@ -59,7 +59,7 @@ As with your first assignment, you will submit your work in the GitHub repositor
 1. A markdown file (`submission.md`) with your graphs, table, and question responses. 
 2. The spreadsheet (as an Excel file in .xlsx format) you used to perform analyses for this assignment. This will be consulted as proof of work and to help explain any errors in the submission.    
 
-To get started: 
+Next steps: 
 1. Read the rest of these instructions.
 2. Download your repository's files to work on them, as needed. 
 3. Follow the steps outlined below in the [Tasks](#5-Tasks) section.
