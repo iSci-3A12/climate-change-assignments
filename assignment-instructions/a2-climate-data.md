@@ -52,67 +52,64 @@ In terms of skill and knoweldge development, it is intended that this assignment
 - advance your GitHub and Markdown skills to embed your figures and tables in a web-ready document.
 
 ## 3. Submission Details and Preparation
-As with your first assignment, your submission will take the form of a [Markdown](https://www.markdownguide.org/getting-started/) document. Materials for this assignment (as well as a template markdown submission file) are provided to you in the GitHub repository that is created for you in GitHub Classrooms when you clone the repository. To get prepared, you should: 
-1. Create your repository for this assignment at this url: [https://classroom.github.com/a/0DNdyTvd](https://classroom.github.com/a/0DNdyTvd)
-  - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a2-climate-data-<yourgithubname>```)
-  - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
+As with your first assignment, your submission will take the form of a [Markdown](https://www.markdownguide.org/getting-started/) document. Materials for this assignment (as well as a template markdown submission file) are provided to you in your pre-made GitHub repository for this assignment
+1. Once logged in to your GitHub account, navigate to your repository for this assignment. Your repository has been pre-generated and will have the URL: `https://github.com/iSci-3A12/isci3a12-a2-climate-data-<your_github_username>`. Refer to the [GitHub introductory module](https://isci-3a12.github.io/climate-change-assignments/assignment-instructions/a0-intro-to-github.html#15-where-to-find-your-repositories) for a refresher on finding and accessing your repositories.  
 2. Read the rest of this instruction document and your new repository's README.md file, as well. 
-3. You will need to download some of your repository's files to work on them 
+3. Download some of your repository's files to work on them, as needed. 
 4. Follow the steps outlined below in the [Tasks](#5-Tasks) section. 
 5. Following the due date, Jay will download the repositories to be marked. 
 
 ## 4. Materials and Data
-
-A variety of datasets have been downloaded and prepared for use in this assignment. These can all be found in the ```/data``` folder of your cloned assignment repository. Contents of each subdirectory in that folder are described below. 
+A variety of datasets have been downloaded and prepared for use in this assignment. These can all be found in the `/data` folder of your cloned assignment repository. Contents of each subdirectory in that folder are described below. 
 
 ### 4.1 GISS Surface Temperature Analysis (v4) - Station Data 
 - Located in ```/data/station_data/```
 - This folder contains comma-separated (csv) text files, each consisting of monthly mean temperature measurements for a weather station somewhere in the world. **This is the primary data you will use for this assignment**. 
-  - **Each student has been assigned a different station for the purposes of this assignment**--station assignments are outlined in ```assigned_stations.pdf``` in the repository. 
+  - **Each student has been assigned a different station for the purposes of this assignment**--station assignments are outlined in `assigned_stations.pdf` in the repository. 
 - This data has been downloaded from the NASA Goddard Institute for Space Studies [GISS Surface Temperature Analysis (v4) Station Data](https://data.giss.nasa.gov/gistemp/station_data_v4_globe/) dataset. These datasets were selected for this assignment because they a) span at least 100 years, b) are of high data quality (i.e. have relatively few missing values), and c) collectively, they cover as much of the globe as possible. Note that large regions of the world are still absent from these selected datasets due to poor quality time series in these areas. 
 - Data is recorded in hundredths of a degree (i.e. you need to divide values by 100 to get to degrees celcius). **Missing monthly values are represented as ```-9999``` in the data**. As such, you must decide how to handle bad/missing data to ensure that presented data is accurate, representative, and not misleading. 
 
 ### 4.2 Hadley Centre Central England Temperature (CET) Data - Daily and Monthly
-- Located in ```/data/CET/```
+- Located in `/data/CET/`
 - These are datasets of daily and monthly temperature measurements (mean, min, max) corresponding to the [Central England Temperature](https://www.metoffice.gov.uk/hadobs/hadcet/) (CET) time series--the longest such continuous record in the world.
 - Data Source: http://www.metoffice.gov.uk/hadobs/hadcet/data/download.html
 
 #### 4.2.1 Daily Data
 - Files are tab-delimited text, with two columns: Date and one of either mean, max, or min temperatures (in degrees Celsius) 
-- ```cet-daily.dat```: Daily average temperature value for all days since 1772. 
-- ```cet-max-daily.dat```: Daily maximum temperature value for all days since 1878.
-- ```cet-min-daily.dat```: Daily minumum temperature value for all days since 1878.
+- `cet-daily.dat`: Daily average temperature value for all days since 1772. 
+- `cet-max-daily.dat`: Daily maximum temperature value for all days since 1878.
+- `cet-min-daily.dat`: Daily minumum temperature value for all days since 1878.
 
 #### 4.2.1 Monthly Data
 - Files are tab-delimited text, with 14 columns. Column 1 is the year; Columns 2 through 13 are monthly temperature values (mean, max, or min); Column 14 is the average annual value of the same temperature measure.
-- ```cet-monthly.dat```: Monthly mean temperatures for months since 1659.
-- ```cet-max-monthly.dat```: Monthly maximum temperatures for months since 1878.
-- ```cet-min-monthly.dat```: Monthly minimum temperatures for months since 1878.
+- `cet-monthly.dat`: Monthly mean temperatures for months since 1659.
+- `cet-max-monthly.dat`: Monthly maximum temperatures for months since 1878.
+- `cet-min-monthly.dat`: Monthly minimum temperatures for months since 1878.
 
 ### 4.3 GISS Annual Global Surface Temperature (GISS) 
-- Located in in ```/data/global_temperature/```
+- Located in in `/data/global_temperature/`
 - Spatially-averaged estimates of global surface temperature.  All data downloaded from: https://data.giss.nasa.gov/gistemp/graphs_v4/
-- ```GISS_MeanSfcTemp.txt```: Global Land-Ocean Temperature Index (degrees C; Anomaly with Base: 1951-1980) 
+- `GISS_MeanSfcTemp.txt`: Global Land-Ocean Temperature Index (degrees C; Anomaly with Base: 1951-1980) 
 	- **Use this for a global average when comparing to your station**. 
 	- Dataset has three columns: Column 1 is the year; Column 2 is the annual average anomaly; Column 3 is the 5-year average anomaly, calculated using a 5-year window centred on the year of interest
 	- [Direct link to the data](https://data.giss.nasa.gov/gistemp/graphs_v4/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt).
 	- [Learn more about the Land-Ocean Temperature Index](https://data.giss.nasa.gov/gistemp/faq/#q103).
-- ```GISS_MonthlyMeanTemp.txt```: Monthly mean global surface temperature anomalies (degrees C; Base: 1951-1980) provided for a number of different estimate types:
-	1. ```Station```: Global anomaly estimated using land and sea air temperature stations only. 
-	2. ```Land+Ocean```: The Land-Ocean Temperature Index (see above).
-	3. ```Land_Only```: Estimate of Temperature Index for ***land only***.
-	4. ```Open Ocean```: Estimate of Temperature Index for ***ocean only***. 
+- `GISS_MonthlyMeanTemp.txt`: Monthly mean global surface temperature anomalies (degrees C; Base: 1951-1980) provided for a number of different estimate types:
+	1. `Station`: Global anomaly estimated using land and sea air temperature stations only. 
+	2. `Land+Ocean`: The Land-Ocean Temperature Index (see above).
+	3. `Land_Only`: Estimate of Temperature Index for ***land only***.
+	4. `Open Ocean`: Estimate of Temperature Index for ***ocean only***. 
 	- [Direct link to the data](https://data.giss.nasa.gov/gistemp/graphs_v4/graph_data/Monthly_Mean_Global_Surface_Temperature/graph.txt)
-- ```GISS_Land+Ocean.txt```: Annual Mean Temperature Change over Land and over Ocean (degrees C; Anomaly with Base: 1951-1980)
+- `GISS_Land+Ocean.txt`: Annual Mean Temperature Change over Land and over Ocean (degrees C; Anomaly with Base: 1951-1980)
 	- [Direct link to the data](https://data.giss.nasa.gov/gistemp/graphs_v4/graph_data/Temperature_Anomalies_over_Land_and_over_Ocean/graph.txt)
-- ```GISS_MeanHemisphereTemp.txt```:  Annual mean Land-Ocean Temperature Index in .01 degrees Celsius by hemispheres and zones (Anomaly with Base: 1951-1980) 
+- `GISS_MeanHemisphereTemp.txt`:  Annual mean Land-Ocean Temperature Index in .01 degrees Celsius by hemispheres and zones (Anomaly with Base: 1951-1980) 
 	- [Direct link to the data](https://data.giss.nasa.gov/gistemp/graphs_v4/graph_data/Hemispheric_Temperature_Change/graph.txt)
 
 ### 4.4 SDIC Monthly and Annual Sunspot Data (Back to 1749) 
-- Located in ```/data/sunspots/```
+- Located in `/data/sunspots/`
 - Long term record of daily, monthly and annual sunspot numbers.
 - Data Source: http://www.sidc.be/silso/datafiles
-- ```TotalSunspotsDaily.csv```: Daily sunspot numbers (as a comma-separated file)
+- `TotalSunspotsDaily.csv`: Daily sunspot numbers (as a comma-separated file)
 	- Column 1: Year 
 	- Column 2: Month
 	- Column 3: Day 
@@ -121,13 +118,13 @@ A variety of datasets have been downloaded and prepared for use in this assignme
 	- Column 6: Daily standard deviation of the input sunspot numbers from individual stations. A value of -1 indicates that no number is available for that day (missing value).
 	- Column 7: Number of observations used to compute the daily value.
 	- Column 8: Definitive/provisional indicator. '1' indicates that the value is definitive. '0' indicates that the value is still provisional.
-- ```TotalSunspotsAnnual.csv```: Annual avergage sunspot numbers (as a comma-separated file)
+- `TotalSunspotsAnnual.csv`: Annual avergage sunspot numbers (as a comma-separated file)
 	- Column 1: Gregorian calendar year (mid-year date)
 	- Column 2: Yearly mean total sunspot number. A value of -1 indicates that no number is available for that day (missing value).
 	- Column 3: Yearly mean standard deviation of the input sunspot numbers from individual stations. A value of -1 indicates that no number is available for that day (missing value).
 	- Column 4: Number of observations used to compute the yearly mean total sunspot number.
 	- Column 5: Definitive/provisional marker. '1' indicates that the value is definitive. '0' indicates that the value is still provisional.
-- ```TotalSunspotsMonthly.csv```: Monthly avergage sunspot numbers (as a comma-separated file)
+- `TotalSunspotsMonthly.csv`: Monthly avergage sunspot numbers (as a comma-separated file)
 	- Column 1: Year
 	- Column 2: Month
 	- Column 3: Date in fraction of year.
@@ -137,15 +134,15 @@ A variety of datasets have been downloaded and prepared for use in this assignme
 	- Column 7: Definitive/provisional marker. '1' indicates that the value is definitive. '0' indicates that the value is still provisional.
 
 ## 5. Tasks
-In your submission file, you will create a report with **3 figures, 1 table, and 2 question responses**. These can be inserted into the ```submission.md``` file that has already been created for you in your cloned repository. Your tasks for this assignment are described below. 
+In your submission file, you will create a report with **3 figures, 1 table, and 2 question responses**. These can be inserted into the `submission.md` file that has already been created for you in your cloned repository. Your tasks for this assignment are described below. 
 <br>
 ### Before getting started:
 - Ensure that you've created the assignment repository, as described in the [Submission Details section](#3-submission-details-and-preparation)
 - Read through the rest of the information on this page and check out the [demonstration](#9-demo) section at the end, which walks you through some of the first tasks and provides useful information about spreadsheet formulas. 
 ### Figure 1
 - Plot the annual temperature anomaly time series for your assigned station (in the /station_data/ subdirectory), along with the annual global anomaly temperature anomaly time series. Both series should be plotted as an anomaly from their respective 1951-1980 means (our chosen baseline period). Plot a trend for each time series, using a trend line or a moving average (you have freedom to choose either). 
-- Export your figure from Google Sheets or Excel as a PNG file and title it ```station-timeseries.png```
-- Insert this figure into your ```submission.md``` document. Add a descriptive caption and be sure to indicate the baseline period (1951-1980) in it.
+- Export your figure from Google Sheets or Excel as a PNG file and title it `station-timeseries.png`
+- Insert this figure into your `submission.md` document. Add a descriptive caption and be sure to indicate the baseline period (1951-1980) in it.
 ### Table 1
 <table style="background-color: #ffff99;">
 <tbody>
@@ -177,8 +174,8 @@ Considering the results shown in Figure 1 and Table 1, summarize how temperature
 
 ### Figure 2
 - Assuming the role of a “climate denier”, create a new figure and modify the presentation of the global temperature anomaly time series to present it in a manner that would support your cause. You are not allowed to falsify the data (i.e. no fabricated or altered data), but you can certainly alter the figure’s presentation to suit your needs.
-- Export your figure from Google Sheets or Excel as a PNG file and title it ```climate-denier.png```
-- Insert this figure into your ```submission.md``` document. Add a descriptive caption and be sure to indicate the baseline period (1951-1980) in it.
+- Export your figure from Google Sheets or Excel as a PNG file and title it `climate-denier.png`
+- Insert this figure into your `submission.md` document. Add a descriptive caption and be sure to indicate the baseline period (1951-1980) in it.
 
 <!--
 Note to JB for next year: Re-insert a question that asks the students to list and justify the changes they've made. They could create it as a markdown table. 
