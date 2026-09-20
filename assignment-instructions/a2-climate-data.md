@@ -52,12 +52,20 @@ In terms of skill and knoweldge development, it is intended that this assignment
 - advance your GitHub and Markdown skills to embed your figures and tables in a web-ready document.
 
 ## 3. Submission Details and Preparation
-As with your first assignment, your submission will take the form of a [Markdown](https://www.markdownguide.org/getting-started/) document. Materials for this assignment (as well as a template markdown submission file) are provided to you in your pre-made GitHub repository for this assignment
-1. Once logged in to your GitHub account, navigate to your repository for this assignment. Your repository has been pre-generated and will have the URL: `https://github.com/iSci-3A12/isci3a12-a2-climate-data-<your_github_username>`. Refer to the [GitHub introductory module](https://isci-3a12.github.io/climate-change-assignments/assignment-instructions/a0-intro-to-github.html#15-where-to-find-your-repositories) for a refresher on finding and accessing your repositories.  
-2. Read the rest of this instruction document and your new repository's README.md file, as well. 
-3. Download some of your repository's files to work on them, as needed. 
-4. Follow the steps outlined below in the [Tasks](#5-Tasks) section. 
-5. Following the due date, Jay will download the repositories to be marked. 
+As with your first assignment, you will submit your work in the GitHub repository created for you in the iSci-3A12 organization. This repository will also contain datasets and other materials for use in your analysis. 
+- Once logged in to your GitHub account, navigate to your repository for this assignment. Your repository has been pre-generated and will have the URL: `https://github.com/iSci-3A12/isci3a12-a2-climate-data-<your_github_username>`. Refer to the [GitHub introductory module](https://isci-3a12.github.io/climate-change-assignments/assignment-instructions/a0-intro-to-github.html#15-where-to-find-your-repositories) for a refresher on finding and accessing your repositories.  
+
+**To complete this assignment, you will submit the following two files to the repository**: 
+1. A markdown file (`submission.md`) with your graphs, table, and question responses. 
+2. The spreadsheet (as an Excel file in .xlsx format) you used to perform analyses for this assignment. This will be consulted as proof of work and to help explain any errors in the submission.    
+
+To get started: 
+1. Read the rest of these instructions.
+2. Download your repository's files to work on them, as needed. 
+3. Follow the steps outlined below in the [Tasks](#5-Tasks) section.
+4. Ensure that both deliverables are uploaded to / edited in the repository before the due date.
+
+Following the due date, Jay will download the repositories to be marked. 
 
 ## 4. Materials and Data
 A variety of datasets have been downloaded and prepared for use in this assignment. These can all be found in the `/data` folder of your cloned assignment repository. Contents of each subdirectory in that folder are described below. 
@@ -134,10 +142,10 @@ A variety of datasets have been downloaded and prepared for use in this assignme
 	- Column 7: Definitive/provisional marker. '1' indicates that the value is definitive. '0' indicates that the value is still provisional.
 
 ## 5. Tasks
-In your submission file, you will create a report with **3 figures, 1 table, and 2 question responses**. These can be inserted into the `submission.md` file that has already been created for you in your cloned repository. Your tasks for this assignment are described below. 
+In your submission file, you will create a report with **3 figures, 1 table, and 2 question responses**. These can be inserted into the `submission.md` file that has already been created for you in your repository. Your tasks for this assignment are described below. 
 <br>
 ### Before getting started:
-- Ensure that you've created the assignment repository, as described in the [Submission Details section](#3-submission-details-and-preparation)
+- Ensure you have access to your assignment repository, as described in the [Submission Details section](#3-submission-details-and-preparation)
 - Read through the rest of the information on this page and check out the [demonstration](#9-demo) section at the end, which walks you through some of the first tasks and provides useful information about spreadsheet formulas. 
 ### Figure 1
 - Plot the annual temperature anomaly time series for your assigned station (in the /station_data/ subdirectory), along with the annual global anomaly temperature anomaly time series. Both series should be plotted as an anomaly from their respective 1951-1980 means (our chosen baseline period). Plot a trend for each time series, using a trend line or a moving average (you have freedom to choose either). 
@@ -188,6 +196,10 @@ Note to JB for next year: Re-insert a question that asks the students to list an
 
 ### Question 2 
 Referring to Figure 3, explain what is shown, and what can be inferred from it. (100 words or less)
+
+### Submitting your work
+- Be sure to commit your changes as you work on your `submission.md` file. Your final commit before the deadline will be evaluated
+- As proof of work, you are also required to upload your spreadsheet file (as an Excel file in .xlsx format) to the repository, as well. 
 
 ## 6. Assessment Rubric
 <img src="a2-rubric.png" alt="Assessment rubric" width="700" style="border: 1px solid darkgrey">
