@@ -33,18 +33,18 @@ Through this assignment, it is expected that you will:
 ## Getting Started & Submission Details
 Your submission will take the form of a [Markdown](https://www.markdownguide.org/getting-started/) document, a web-friendly, plaintext document format used to make simple webpages and format text for the web (including sites like GitHub, Reddit, Trello, and applications like R and Jupyter Notebooks). This lets us compile and share submissions in a single website. 
 To prepare for submitting your work as a markdown document: 
+
 1. Make sure you've completed the [GitHub and Markdown module](https://isci-3a12.github.io/climate-change-assignments/assignment-instructions/a0-intro-to-github.html) assigned in week 4.
-  - **Note**: Ensure that you have created a GitHub account and linked it to your name in GitHub Classroom. You should have been prompted to do this as part of the [GitHub and Markdown module](https://isci-3a12.github.io/climate-change-assignments/assignment-instructions/a0-intro-to-github.html). 
-2. Create your repository for this assignment at this url: [https://classroom.github.com/a/knlAgP55](https://classroom.github.com/a/knlAgP55). 
-  - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a1-climate-claims-<yourgithubname>```
-  - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
+  - **Note**: Ensure that you have a GitHub account and that Jay has added it to the iSci-3A12 GitHub organization (this was done in-class on week 4). 
+2. Once logged in to your GitHub account, navigate to your repository for this assignment. Your repository has been pre-generated and will have the URL: `https://github.com/iSci-3A12/isci3a12-a1-climate-claims-<your_github_username>`. 
+	- Refer to the [GitHub introductory module](https://isci-3a12.github.io/climate-change-assignments/assignment-instructions/a0-intro-to-github.html#15-where-to-find-your-repositories) for a refresher on finding and accessing your repositories. 
 3. Read the readme.md file for further instructions
 4. In your repository, create a new markdown file for your submission. Name it so that: 
   - It uses lower cases and no spaces (use a dash (“-“) instead of a space).
   - The filename is short and relates to your subject.
   - Your markdown file has “.md” as its extension.
-  - Examples: ```antarctic-cooling.md```; ```models-are-wrong.md```
-5. Develop your document in the GitHub editor, so that you can preview your work. Use the ```submission.md``` file provided in the repository as an example/template. You may find it easier to create your submission in a Word document first and transfer content over into the Markdown document. 
+  - Examples: `antarctic-cooling.md`; `models-are-wrong.md`
+5. Develop your document in the GitHub editor, so that you can preview your work. Use the `submission.md` file provided in the repository as an example/template. If you decide to create your submission in a Word document first, remember that you will need to translate the formatting to display in the Markdown document.  
 6. Following the due date, Jay will download the repositories to be marked. 
 
 ## Tasks 
