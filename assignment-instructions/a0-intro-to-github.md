@@ -40,36 +40,35 @@ By the end of this tutorial, you will be able to:
 2. Watch Jay's introductory video 
 <iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/c7b45e80-77a7-4ab9-b438-9856417388d5/public?autoplay=false&automute=false"></iframe>
 
-### 1.3 Create a GitHub account (if you don't have one)
-- Navigate to [GitHub](https://github.com) and sign up for an account if you don't already have one. 
-- After registering, sign in to your account.
+### 1.3 How you will use GitHub in this project
+We will use GitHub for all three individual assignments in this project. For each assignment, a separate and personal assignment repository will be created for you in the iSci-3A12 GitHub organization, pre-populated with material. You will do your work in this repository and its contents will be evaluated as your assignment submission. Each *commit* you make to the repository is time-stamped, so your submission time is known. **You will not submit any of your individual assignments through Avenue.**
 
-### 1.4 Connect your GitHub account with our GitHub Classroom
-We will use GitHub for all individual assignments in this project, using a tool called [GitHub Classroom](https://classroom.github.com/). At the beginning of the assignment, jay will provide you a link to create your personal assignment repository (pre-populated with guidance material); you will do your work in this repository and its contents will be evaluated as your assignment submission. **You will not submit any of your individual assignments through Avenue.**
+### 1.4 Initial preparation [in-class] 
+1. **Create a personal GitHub account (if you don't already have one)**: You will use your account for this project's deliverables, but it belongs to you. It is a personal account that you can use for future projects related to your learning, research, professional and personal activities. 
+	- Navigate to [GitHub](https://github.com) and sign up for an account if you don't already have one. 
+	- Sign in to your account. Note your GitHub username
+2. **Complete [this form]() to share your GitHub username with Jay**: Once completed, Jay will invite you to the *iSci-3A12* GitHub organization. 
+3. Check the email associated with your GitHub account and accept the invitation to the iSci-3A12 GitHub organization. 
+4. Follow the prompt to connect your GitHub account to McMaster's single sign on authentication. 
+5. Once your invitation has been accepted, Jay will pre-generate your repository for this activity. 
 
-To enable this, you must connect your GitHub account with your name in our project classroom. This will be done in the next lesson.  
-
+### 1.5 Where to find your repositories 
+In the future, you *should* be able to find your assignment repositories using any of the following methods (though multiple solutions are provided, in case you run into issues): 
+- **Method 1** (This will work well for project-related assignments): Navigate to the iSci-3A12 GitHub [organization page](https://github.com/iSci-3A12). All repositories to which you have access will be listed here. 
+- **Method 2** (Best for general GitHub use): Navigate to [your account's dashboard](https://github.com/dashboard). You should see your repositories listed on the left-side pane of *Top repositories*. If not you can go to your GitHub [/settings/repositories page](https://github.com/settings/repositories). 
+- **Method 3** (Failsafe/fallback for this project): The repository URLs for this project all follow the same pattern. Ensuring that you're logged in to your GitHub account, you can use this method to 
+	- Assignment 0 (Intro to GitHub): `'https://github.com/iSci-3A12/3a12-a0-github-fundamentals-<your_github_username>`, e.g.: `https://github.com/iSci-3A12/3a12-a0-github-fundamentals-jbrodeur`
+	- Assignment 1 (Climate Claims): `https://github.com/iSci-3A12/3a12-a1-climate-claims-<your_github_username>', e.g.: `https://github.com/iSci-3A12/3a12-a1-climate-claims-jbrodeur`
+	- Assignment 2 (Climate Data): `https://github.com/iSci-3A12/3a12-a2-climate-data-<your_github_username>`, e.g.: `https://github.com/iSci-3A12/3a12-a2-climate-data-jbrodeur`
+	- Assignment 3 (Scientific Programming): 'https://github.com/iSci-3A12/3a12-a3-scientific-programming-<your_github_username>' e.g. https://github.com/iSci-3A12/3a12-a3-scientific-programming-jbrodeur
+	
 ## 2. Using GitHub
 ### 2.1 Lesson objectives 
-- Create a GitHub repository by cloning an existing one.
 - Get familiar with the interface and common terminology
 - Create folders and files.
 
-### 2.2 Clone a repo; Connect your GitHub account to GitHub Classroom
-- Click [this link](https://classroom.github.com/a/quziAxIi) to clone the repository for this module. Cloning allows you to make a personal copy of someone else's repository (Jay's in this case), so that you can pick up where they left off.  
-- If this is the first time you've used this link, you'll first be prompted to connect your GitHub account to your name in our GitHub Classroom.  
-<img src="join-the-classroom.png" alt="dialog box prompting user to select their name from a list" width="350" style="border: 1px solid darkgrey">
-
-- **New** ***and fun*** **for 2025**: Due to changes in McMaster's GitHub policy, you will not be able to accept the assignment immediately and will see an error message if you do so. The following steps are now required:
-	- After you've linked to your account, Jay will invite you to the iSci3A12 GitHub organization. You will receive an email that looks like the following:
- 		- <img src="img/join-org.png" alt="dialog box prompting user to join the iSci-3A12 organization" width="350" style="border: 1px solid darkgrey">
-	- Accept the invitation and try again to accept the assignment using [this link](https://classroom.github.com/a/quziAxIi).
-
-- In the following window, select to **accept the assignment**.  
-<img src="accept-assignment.png" alt="dialog box prompting user to accept an assignment" width="350" style="border: 1px solid darkgrey">
-
-- When the **you're ready to go** screen appears, click the link to go to your repository. Rather than being created in your GitHub account, this repository is created in the iSci-3A12 organization (though you have edit rights to it). Your repository URL will be of the form: ```https://github.com/iSci-3A12/isci3a12-a0-github-fundamentals-<yourGitHubUsername>```
-- **Important Note**: For reasons unknown to me, your GitHub Classroom repositories won't show up in your GitHub account's repository list. If you want to see all of your assignment repositories, go to [https://github.com/settings/repositories](https://github.com/settings/repositories). 
+### 2.2 Access your assignment repository
+Follow the instructions above (in Section 1.5) to find your pre-generated assignment repository. Ensure that you are logged in to your GitHub account.
 
 ### 2.3 Follow along with Jay's introductory video
 Here, Jay will demonstrate the steps laid out above, and explain some of the features within a GitHub repository.  
@@ -93,7 +92,7 @@ As explained in the previous lesson, a repository is a container for related mat
 - From your GitHub main page, click on the green **New Repository** button. This is the repository (storage location) where the content of your website will be hosted. 
   - Provide a name for your repository. The name you enter will determine the URL of your repository.
     - i.e. ```https://github.com/<your-github-username>/<your-repo-name>```
-	- e.g. ```https://github.com/jasonbrodeur/test-pages```
+	- e.g. ```https://github.com/jbrodeur/test-pages```
 - Check the box to **Initialize this repository with a README**
   - **NOTE**: Your README file is a plain text file (same as a .txt file) that typically contains descriptive information about your repository (Who made it? What does it contain? What is it for?, etc.). The ```.md``` extension indicates to GitHub that this is a Markdown file (more on that later). One of the nice features of markdown files is that they are readable by almost any applications (and humans), since they are mostly just plain text files.
 - Click the **Create repository** button
