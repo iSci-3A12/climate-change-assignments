@@ -171,14 +171,17 @@ In your submission file, you will create a report with **3 figures, 1 table, and
 - Your final table should be structured in the following manner: 
 	- 5 Columns: ```| JFM | AMJ | JAS | OND | Annual |``` (Refer to your GitHub and Markdown intro assignment for instructions on making these into headings)
 	- 3 Rows: 
-		- Mean T, (in °C) for the last 40 years of available data (most/all time series include 2024 data)
-		- Mean T, (in °C) for all years before the last 40 (there should be no overlap in years) 
-		- ΔT, (in °C), or differences in seasonal/annual means from the last 40 years and the previous years (i.e. row 1 – row 2)
+		- Row 1: Mean T, (in °C) for the last 40 years of available data (most/all time series include 2024 data)
+		- Row 2: Mean T, (in °C) for all years before the last 40 (there should be no overlap in years) 
+		- Row 3: ΔT, (in °C), or differences in seasonal/annual means from the last 40 years and the previous years (i.e. row 1 – row 2)
 		- Significant differences should be bolded and indicated with a trailing plus sign (e.g. **0.331+**)
 		- The table should have a descriptive title and caption at the top, and a note at the bottom explaining: ***"+" denotes significant difference at significance level 𝛼=0.05***
 
 ### Question 1: 
-Considering the results shown in Figure 1 and Table 1, summarize how temperatures have (or have not) changed at your assigned station. What are the limitations of your analysis? (150 words or less).
+Considering the results shown in Figure 1 and Table 1, summarize how temperatures have (or have not) changed at your assigned station. What are the limitations of your analysis? (150 words or fewer)
+
+### Question 2: 
+Describe and explain the decisions you made when designing figure #1. What elements and changes did you add, modify, or remove, and for what purpose(s)? (100 words or fewer) 
 
 ### Figure 2
 - Assuming the role of a “climate denier”, create a new figure and modify the presentation of the global temperature anomaly time series to present it in a manner that would support your cause. You are not allowed to falsify the data (i.e. no fabricated or altered data), but you can certainly alter the figure’s presentation to suit your needs.
@@ -188,14 +191,16 @@ Considering the results shown in Figure 1 and Table 1, summarize how temperature
 <!--
 Note to JB for next year: Re-insert a question that asks the students to list and justify the changes they've made. They could create it as a markdown table. 
 --> 
+### Question 3: 
+List and justify the changes you made to Figure 2 while assuming the role of a "climate denier". Explain the changes and the intended effect to the viewer. (100 words or fewer)  
 
 ### Figure 3
 - For this figure, you are asked to perform a more in-depth analysis of your data, and look for relationships within it, or relationships with other variables. You can choose between two general approaches: 
 	1. Compare your timeseries (using monthly, seasonal, or annual averages) to any of the other available time series in the Data Pack (or from other sources if you wish), to establish relationships between the two timeseries.  NOTE that you are exploring relationships between two variables (e.g. global temperature anomaly and sunspots), and that **plotting two time series together (as line plots, bar graphs, etc) is a poor form of comparison**.
 	1. **OR** Use other forms of analyses to examine any of the time series in more depth (e.g. spectral analysis, autocorrelation analysis).  Feel free to be creative.  The only restriction is that you may not construct a simple line plot of the time series (as you’ve already done in Figures 1 and 2).
 
-### Question 2 
-Referring to Figure 3, explain what is shown, and what can be inferred from it. (100 words or less)
+### Question 4: 
+Referring to Figure 3, explain what is shown, and what can be inferred from it. (100 words or fewer)
 
 ### Submitting your work
 - Be sure to commit your changes as you work on your `submission.md` file. Your final commit before the deadline will be evaluated
