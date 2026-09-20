@@ -72,7 +72,7 @@ Follow the instructions above (in Section 1.5) to find your pre-generated assign
 
 ### 2.3 Follow along with Jay's introductory video
 Here, Jay will demonstrate the steps laid out above, and explain some of the features within a GitHub repository.  
-<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/9ac8e0a7-9c8d-4629-b22c-4dba80ff2b26/public?autoplay=false&automute=false"></iframe>
+<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/764b23b1-7c08-47ac-a000-5b703431fe34/public?autoplay=false&automute=false"></iframe>
 
 ### 2.4 Work through the introduction in your repository's README.md file
 Read through the introduction provided in the Markdown document ```README.md``` in your new repository. This will provide a basic introduction on working with GitHub repositories. 
@@ -89,11 +89,12 @@ In this lesson, you will learn to:
 
 ### 3.2 Create a new GitHub repository
 As explained in the previous lesson, a repository is a container for related materials (i.e. folders and files), that allows for them to be managed (stored, version-tracked) and shared. Usually, you create a separate repository for each project that you are working on. [Here are the New York Times' GitHub repositories](https://github.com/nytimes), for example. 
-- From your GitHub main page, click on the green **New Repository** button. This is the repository (storage location) where the content of your website will be hosted. 
+- From your GitHub main page, click on the green **New Repository** button. This is the repository (storage location) where the content of your website will be hosted.
+  - For **Owner**, use your GitHub account. This will give you full access to the repository (anything created in the iSci-3A12 organization will have limited functionality).  
   - Provide a name for your repository. The name you enter will determine the URL of your repository.
     - i.e. ```https://github.com/<your-github-username>/<your-repo-name>```
 	- e.g. ```https://github.com/jbrodeur/test-pages```
-- Check the box to **Initialize this repository with a README**
+- Check the box to **Add README**
   - **NOTE**: Your README file is a plain text file (same as a .txt file) that typically contains descriptive information about your repository (Who made it? What does it contain? What is it for?, etc.). The ```.md``` extension indicates to GitHub that this is a Markdown file (more on that later). One of the nice features of markdown files is that they are readable by almost any applications (and humans), since they are mostly just plain text files.
 - Click the **Create repository** button
 - Your browser will now open to the top-level page of the repository. Your repository will contain one file: **README.md**. 
