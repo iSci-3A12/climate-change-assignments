@@ -34,8 +34,8 @@ Through this assignment, it is expected that you will:
 Your submission will take the form of a [Markdown](https://www.markdownguide.org/getting-started/) document, a web-friendly, plaintext document format used to make simple webpages and format text for the web (including sites like GitHub, Reddit, Trello, and applications like R and Jupyter Notebooks). This lets us compile and share submissions in a single website. 
 To prepare for submitting your work as a markdown document: 
 
-1. Make sure you've completed the [GitHub and Markdown module](https://isci-3a12.github.io/climate-change-assignments/assignment-instructions/a0-intro-to-github.html) assigned in week 4.
-  - **Note**: Ensure that you have a GitHub account and that Jay has added it to the iSci-3A12 GitHub organization (this was done in-class on week 4). 
+1. Make sure you've completed the [GitHub and Markdown pre-assignment](https://isci-3a12.github.io/climate-change-assignments/assignment-instructions/a0-intro-to-github.html) assigned in week 4.
+  - **Note**: You must have a GitHub account added (by Jay) to the iSci-3A12 GitHub organization to proceed. This was done in-class on week 4, and covered in the [GitHub and Markdown pre-assignment](https://isci-3a12.github.io/climate-change-assignments/assignment-instructions/a0-intro-to-github.html).
 2. Once logged in to your GitHub account, navigate to your repository for this assignment. Your repository has been pre-generated and will have the URL: `https://github.com/iSci-3A12/isci3a12-a1-climate-claims-<your_github_username>`. 
 	- Refer to the [GitHub introductory module](https://isci-3a12.github.io/climate-change-assignments/assignment-instructions/a0-intro-to-github.html#15-where-to-find-your-repositories) for a refresher on finding and accessing your repositories. 
 3. Read the readme.md file for further instructions
