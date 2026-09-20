@@ -58,9 +58,9 @@ In the future, you *should* be able to find your assignment repositories using a
 - **Method 2** (Best for general GitHub use): Navigate to [your account's dashboard](https://github.com/dashboard). You should see your repositories listed on the left-side pane of *Top repositories*. If not you can go to your GitHub [/settings/repositories page](https://github.com/settings/repositories). 
 - **Method 3** (Failsafe/fallback for this project): The repository URLs for this project all follow the same pattern. Ensuring that you're logged in to your GitHub account, you can use this method to 
 	- Assignment 0 (Intro to GitHub): `'https://github.com/iSci-3A12/3a12-a0-github-fundamentals-<your_github_username>`, e.g.: `https://github.com/iSci-3A12/3a12-a0-github-fundamentals-jbrodeur`
-	- Assignment 1 (Climate Claims): `https://github.com/iSci-3A12/3a12-a1-climate-claims-<your_github_username>', e.g.: `https://github.com/iSci-3A12/3a12-a1-climate-claims-jbrodeur`
+	- Assignment 1 (Climate Claims): `https://github.com/iSci-3A12/3a12-a1-climate-claims-<your_github_username>`, e.g.: `https://github.com/iSci-3A12/3a12-a1-climate-claims-jbrodeur`
 	- Assignment 2 (Climate Data): `https://github.com/iSci-3A12/3a12-a2-climate-data-<your_github_username>`, e.g.: `https://github.com/iSci-3A12/3a12-a2-climate-data-jbrodeur`
-	- Assignment 3 (Scientific Programming): 'https://github.com/iSci-3A12/3a12-a3-scientific-programming-<your_github_username>' e.g. https://github.com/iSci-3A12/3a12-a3-scientific-programming-jbrodeur
+	- Assignment 3 (Scientific Programming): `https://github.com/iSci-3A12/3a12-a3-scientific-programming-<your_github_username>` e.g. `https://github.com/iSci-3A12/3a12-a3-scientific-programming-jbrodeur`
 	
 ## 2. Using GitHub
 ### 2.1 Lesson objectives 
