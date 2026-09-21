@@ -8,9 +8,9 @@ parent: Assignment Instructions
 # Reflection #1
 iSci 3A12 - Climate Change – Fall 2025 
 
-|Date Assigned|2025-09-15|
+|Date Assigned|2026-09-21|
 |:--|:--|
-|**Date Due**|**2025-09-21**|
+|**Date Due**|**2026-09-27**|
 |**Weight**|**2 points**|
 
 Your first reflection assignment is a direct response to the questions you were asked on the first day of the project:
