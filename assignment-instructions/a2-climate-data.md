@@ -156,12 +156,12 @@ In your submission file, you will create a report with **3 figures, 1 table, and
 <tbody>
 <tr>
 <td>
-<p><b>NOTE:</b> that the following instructions have been updated to clarify the years to be used for averaging. The *past 40-year average* should consist of data from 1985 to 2024. The previous version suggested using 1984 to 2023. 2025 data should be excluded for this exercise.</p>
+<p><b>NOTE:</b> that the following instructions have been updated to clarify the years to be used for averaging. The *past 40-year average* should consist of data from 1986 to 2025. The previous version suggested using 1985 to 2024. 2026 data should be excluded for this exercise.</p>
 </td>
 </tr>
 </tbody>
 </table>
-- Create a table comparing the annual and seasonal average temperatures at your site for the past 40 years of measurement (**exlcuding the current year, as it will be incomplete**) to those from the years preceding it. For example, if your time series runs from 1910 to 2025, your past 40-year average will consist of data from 1985-2024, and your comparison range will be 1910 to 1984 (i.e., the start of your time series until the year before your 40-year average starts). **Do not inlcude the current year of data, as it is incomplete**. To create seasonal averages, you group data from successive three-month periods. e.g.:
+- Create a table comparing the annual and seasonal average temperatures at your site for the past 40 years of measurement (**exlcuding the current year, as it will be incomplete**) to those from the years preceding it. For example, if your time series runs from 1910 to 2026, your past 40-year average will consist of data from 1986-2025, and your comparison range will be 1910 to 1985 (i.e., the start of your time series until the year before your 40-year average starts). **Do not inlcude the current year of data, as it is incomplete**. To create seasonal averages, you group data from successive three-month periods. e.g.:
 	- JFM = average of: Jan, Feb, Mar
 	- AMJ =  average of: Apr, May, Jun
 	- JAS =  average of: July, Aug, Sep
@@ -171,7 +171,7 @@ In your submission file, you will create a report with **3 figures, 1 table, and
 - Your final table should be structured in the following manner: 
 	- 5 Columns: ```| JFM | AMJ | JAS | OND | Annual |``` (Refer to your GitHub and Markdown intro assignment for instructions on making these into headings)
 	- 3 Rows: 
-		- Row 1: Mean T, (in °C) for the last 40 years of available data (most/all time series include 2024 data)
+		- Row 1: Mean T, (in °C) for the last 40 years of available data (most/all time series include 2025 data)
 		- Row 2: Mean T, (in °C) for all years before the last 40 (there should be no overlap in years) 
 		- Row 3: ΔT, (in °C), or differences in seasonal/annual means from the last 40 years and the previous years (i.e. row 1 – row 2)
 		- Significant differences should be bolded and indicated with a trailing plus sign (e.g. **0.331+**)
