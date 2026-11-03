@@ -142,7 +142,17 @@ A variety of datasets have been downloaded and prepared for use in this assignme
 	- Column 7: Definitive/provisional marker. '1' indicates that the value is definitive. '0' indicates that the value is still provisional.
 
 ## 5. Tasks
-In your submission file, you will create a report with **3 figures, 1 table, and 2 question responses**. These can be inserted into the `submission.md` file that has already been created for you in your repository. Your tasks for this assignment are described below. 
+In your submission file, you will create a report with **3 figures, 1 table, and 4 question responses**. These can be inserted into the `submission.md` file that has already been created for you in your repository. Your tasks for this assignment are described below. 
+<br>
+<table style="background-color: #ffff99;">
+<tbody>
+<tr>
+<td>
+<p><b>NOTE:</b> An earlier version of this page stated "3 figures, 1 table, and 2 question responses". The page has been updated to indicate that there are 4 questions and all should be answered.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <br>
 ### Before getting started:
 - Ensure you have access to your assignment repository, as described in the [Submission Details section](#3-submission-details-and-preparation)
