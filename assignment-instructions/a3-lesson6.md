@@ -30,7 +30,7 @@ The function `station_stats.m` should calculate and present the user with basic 
 | 4   | Minimum annual temperature in the dataset *                 | Year or minimum annual temperature        |
 | 5   | Temperature of the coldest month                           | Year of coldest month                     |
 | 6   | Temperature of warmest month                               | Year of warmest month                     |
-| 7   | Number of missing months (NaNs) in the dataset                    | Number of incomplete years in the dataset |
+| 7   | Number of missing months (-9999 / NaNs) in the dataset                    | Number of incomplete years in the dataset |
 
   - *Note*: "*" Denotes calculations where years with missing values should be excluded.
 4. Print 7 lines to the Command Window (to be viewed by the user) that communicates the values in the first columns. e.g., 	
