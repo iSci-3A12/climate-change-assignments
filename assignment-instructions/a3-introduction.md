@@ -37,7 +37,8 @@ When complete, your repository will consist of the following items, which should
 - A **function** named ```simple_stats.m``` (Created during [Lesson 3](a3-lesson3))
 - A **script** named ```process_adelaide.m``` (Created during [Lesson 4](a3-lesson4))
 - A **function** named ```plot_station_data.m``` (Created during [Lesson 5](a3-lesson5))
-- A **Markdown** document named ```reflection.md``` that provides a very short reflection on your experience
+- A **function** named `station_stats.m` (Created during [Lesson 6](a3-lesson6))
+- A **Markdown** document named ```reflection.md``` that provides a very short reflection on your experience 
 
 ## 4. Due dates and assessment rubric
 
