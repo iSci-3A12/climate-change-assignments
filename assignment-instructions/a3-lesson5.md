@@ -76,4 +76,5 @@ function [] = plot_station_data(station_name, ref_start, ref_end)
 - Ensure that all changes to your function ```plot_station_data``` is saved.
 - **NOTE** that you are submitting the function and not the outputs (Jay is going to run the script on his computer to evaluate that it creates the proper outputs).
 
-## 4. All done? Head to the [last lesson](as-lesson6) for your final challenge.
+## 4. To the final lesson
+All done? Head to the [last lesson](as-lesson6) for your final challenge.
