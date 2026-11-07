@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Submission
-nav_order: 8
+nav_order: 9
 parent: 03 - Scientific Programming
 grand_parent: Assignment Instructions
 ---
@@ -18,4 +18,5 @@ Ensure that you upload or create each of the following files:
 - A **function** named ```simple_stats.m``` (Created during [Lesson 3](a3-lesson3))
 - A **script** named ```process_adelaide.m``` (Created during [Lesson 4](a3-lesson4))
 - A **function** named ```plot_station_data.m``` (Created during [Lesson 5](a3-lesson5))
+- A **function** named `station_stats.m` (Created during [Lesson 6](a3-lesson6))
 - A **Markdown** document named ```reflection.md``` that provides a very short reflection on your experience 
