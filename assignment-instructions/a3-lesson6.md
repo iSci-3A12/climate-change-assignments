@@ -7,7 +7,7 @@ grand_parent: Assignment Instructions
 ---
 
 # Lesson 6: Create Your own Site Analysis Function
-**Estimated time to complete: 90-120 minutes** 
+**Estimated time to complete: 90-120 minutes**  
 In this final exercise, you will leverage and synthesize what you've learned in the previous lessons to create a function (from scratch) that allows a user to run a quick statistical analysis of any station dataset in your /Data folder. 
 
 ## 1. Setup
