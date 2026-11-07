@@ -10,9 +10,9 @@ has_children: true
 iSci 3A12 - Climate Change – Fall 2026  
 Individual Assignment #3
 
-|Date Assigned|2025-11-09|
+|Date Assigned|2026-11-09|
 |:--|:--|
-|**Date Due**|**2025-11-29**|
+|**Date Due**|**2026-11-29**|
 |**Weight**|**5 points**|
 
 | Lesson(s) | Output(s)                                                       | Criteria                                                                                       | Points |
