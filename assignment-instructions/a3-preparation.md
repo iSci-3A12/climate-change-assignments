@@ -9,11 +9,9 @@ grand_parent: Assignment Instructions
 # Preparation
 Follow the steps below to prepare MATLAB Online and your get your data pack for this assignment.
 
-## 1. Create your assignment GitHub repository
-Create your repository for this assignment at this url: [https://classroom.github.com/a/ZEtKU3AC](https://classroom.github.com/a/ZEtKU3AC).
-  - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a3-scientific-programming-<yourgithubname>```).
-  - This repository comes with data and files that you will use in your assignment (as a backup, see below). When it is time to submit your work, you will download your files from MATLAB Online and upload them to this repository (overwriting some of the files that are here already). 
-  - Remember that you can find all your GitHub Classroom repositories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
+## 1. Locate your assignment GitHub repository
+As with your other individual assignments, you will submit your work in the GitHub repository created for you in the iSci-3A12 organization. This repository will also contain datasets and other materials for use in your analysis.
+* Once logged in to your GitHub account, navigate to your repository for this assignment. Your repository has been pre-generated and will have the URL: https://github.com/iSci-3A12/isci3a12-a3-scientific-programming-<your_github_username>. If you are having trouble locating it, go to the [iSci 3A12 GitHub Organization page](https://github.com/iSci-3A12), or review the [GitHub introductory module](https://isci-3a12.github.io/climate-change-assignments/assignment-instructions/a0-intro-to-github.html#15-where-to-find-your-repositories) for a refresher on finding and accessing your repositories.
 
 ## 2. Activate MATLAB and open MATLAB Online
 As a student at McMaster, you have access to MATLAB through McMaster's [web portal](https://www.mathworks.com/academia/tah-portal/mcmaster-university-31501097.html). From this portal, you can download the MATLAB installer to install it on your local desktop or laptop, or access and use MATLAB online--a completely online software version. For this assignment, we'll be using the online version. If you don't already have one, you'll be required to create a MathWorks account. 
