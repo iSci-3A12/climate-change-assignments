@@ -39,4 +39,4 @@ By the end of this lesson, you will have created the following required delivera
 - **NOTE** that you are submitting the script and not the output (Jay is going to run the script on his computer to evaluate that it creates the proper outputs).
 
 ## 5. Head to the next exercise
-Now that you've processed one site, the challenge is to generalize this code into a function that can analyze all sites in your data folder at once! Head to the [final lesson](a3-lesson5). One more to go! 
+Now that you've processed one site, the challenge is to generalize this code into a function that can analyze all sites in your data folder at once! Head to the [next lesson](a3-lesson5).
