@@ -10,7 +10,7 @@ iSci 3A12 - Climate Change – Fall 2026
 
 |Date Assigned|2026-11-23|
 |:--|:--|
-|**Date Due**|**2026-12-06**|
+|**Date Due**|**2026-12-09**|
 |**Weight**|**2 points**|
 
 As your climate change project winds down, this final reflection is your opportunity to reflect upon your experiences. For this submission, I'd like you to focus on two specific questions:
